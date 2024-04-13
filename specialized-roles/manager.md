@@ -50,10 +50,10 @@ communicate their vision to my team. I am confident that I can accomplish
   acclaimed by contractors and new hires as a new benchmark in developer
   productivity and developer experience.
 - Fostered exceptional growth and development within my software engineering
-  team, **facilitating more engineering job promotions than any other team combined.**
+  team, **facilitating more engineering job promotions than all other technical team combined.**
 - Pioneered and championed system to streamline technical
   roles and career paths for my team While securing leadership buy-in, the
-  "Engineering Promotion Matrix was rolled out to all technical teams and adopted company-wide."
+  **Engineering Promotion Matrix was rolled out to all technical teams and adopted company-wide.**
 - **Reduced onboarding new software engineer’s from 60 days to a 14 days** by
   running an onboarding procedure full of ever evolving automations, scripts,
   and tooling, a new engineer’s machine was provisioned within a few hours,

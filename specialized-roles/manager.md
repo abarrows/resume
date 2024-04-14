@@ -39,8 +39,8 @@ communicate their vision to my team. I am confident that I can accomplish
   Azure.** Transitioned 20+ digital products and 40+ web services to boost
   operational efficiency, scalability, and security within our digital ecosystem
   while coordinating front-end efforts with DevOps.
-- **Reduced time to setup new web applications by over 70% and significantly
-  enhanced developer experience** by employing a 'Principle' web application
+- **Reduced time to setup new web applications by over 70%** and significantly
+  enhanced developer experience by employing a 'Principle' web application
   template, front-end had a centralized blueprint for our evolving standards,
   tooling, and common components. As new patterns emerged, all connected
   projects were automatically synced with a pull request.

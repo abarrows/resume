@@ -63,8 +63,8 @@ communicate their vision to my team. I am confident that I can accomplish
   from hundreds of interviews, we routinely iterated and improved the system
   based on feedback from recruiters and engineers.
 - Directed alongside 3 other engineering managers the rapid and **successful
-  response to a state-sponsored ransomware attack.** Achieved 100% data recovery
-  without ransom payment in just four days. Coordinating with senior leadership,
+  response to a state-sponsored ransomware attack. Achieved 100% data recovery
+  without ransom payment in just four days.** Coordinating with senior leadership,
   cyber insurance, and the FBI, we processed complete system scans to ensure
   service continuity for hundreds of clients and employees, maintaining all SLAs
   and securing client trust.
@@ -75,8 +75,8 @@ communicate their vision to my team. I am confident that I can accomplish
   list of efficiencies covering 12 “health checks” ranging in areas from
   automated testing, security, seo, web performance, and more to ensure the
   highest level of quality is delivered.
-- **Cut the annual digital product development budget by nearly 50%**, saving the
-  department over $14,000, by using a zero-based budgeting process, we
+- **Cut the annual digital product development budget by nearly 50%, saving the
+  department over $14,000**, by using a zero-based budgeting process, we
   eliminated many unnecessary expenses and strategically shifted to more cost
   effective platforms like Jira, Github, and a new negotiated contract with
   Browserstack.

@@ -83,8 +83,8 @@ communicate their vision to my team. I am confident that I can accomplish
 - Led User Privacy Compliance Overhaul on our entire portfolio of 40+ digital
   products. Directed a nine-month initiative to align with CCPA, GDPR, and COPA
   regulations, collaborating with key stakeholders and external vendors.
-  **Established enduring compliance management programs and trained 3 teams in privacy-first best practices, resulting in a 100% compliance rate
-  and zero post-audit discrepancies**.
+  **Established enduring user privacy programs and trained 3 teams in privacy-first best practices, resulting in a 100% compliance rate with zero violations since 2020
+  **.
 - **Planned and supervised a successful 3 month enterprise migration from
   Bitbucket to Github.com** by grooming our 400+ repositories, we succeeded in
   moving 250 of our active repositories while coordinating with lead engineers

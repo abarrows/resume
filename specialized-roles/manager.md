@@ -20,9 +20,7 @@ communicate their vision to my team. I am confident that I can accomplish
 
 ### Manager of Software Engineering
 
-#### Andrews McMeel Universal - Kansas City, Missouri
-
-##### 2019 - 2024
+#### Andrews McMeel Universal - Kansas City, Missouri | 2019 - 2024
 
 - Led front-end engineering architecture and development across 15+ key websites
   and services, **culminating in a peak of 8.6 million monthly user
@@ -120,7 +118,7 @@ communicate their vision to my team. I am confident that I can accomplish
 
 ### Web Designer
 
-#### Andrews McMeel Universal - Kansas City, Missouri | 2011 - 2017
+#### Andrews McMeel Universal - Kansas City, Missouri | 2012 - 2017
 
 - **Planned and executed the front-end architecture for our syndication service
   “GoContent”** Architected web service which operated for almost a decade.

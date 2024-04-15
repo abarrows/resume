@@ -16,9 +16,9 @@ professional development of its engineers.
 
 ## Work Experience
 
-### Manager of Software Engineering
+### Engineering Manager
 
-#### Andrews McMeel Universal - Kansas City, Missouri | 2019 - 2024
+#### Andrews McMeel Universal - Kansas City, Missouri | 06/2019 - 04/2024
 
 - Led front-end engineering architecture and development across 15+ key websites and services, **culminating in a peak
   of 8.6 million monthly user impressions** while managing Software Engineers across three product teams.
@@ -69,7 +69,7 @@ professional development of its engineers.
 
 ### Lead Front-End Web Developer
 
-#### Andrews McMeel Universal - Kansas City, Missouri | 2017 - 2019
+#### Andrews McMeel Universal - Kansas City, Missouri | 01/2017 - 06/2019
 
 - **Led our front-end engineering team to win a 2020 Webby Award** Interfaced between 9 teams while guiding and
   mentoring the front-end engineers. We successfully built and released thefarside.com before our contractual deadline.
@@ -90,7 +90,7 @@ professional development of its engineers.
 
 ### Web Designer
 
-#### Andrews McMeel Universal - Kansas City, Missouri | 2012 - 2017
+#### Andrews McMeel Universal - Kansas City, Missouri | 03/2012 - 01/2017
 
 - **Planned and executed the front-end architecture for our syndication service “GoContent”** Architected web service
   which operated for almost a decade.  Embedding syndicated comics, games, and text articles within enterprise level
@@ -111,7 +111,7 @@ professional development of its engineers.
 
 ### Flash Developer
 
-#### Andrews McMeel Universal - Kansas City, Missouri | 2010 - 2011
+#### Andrews McMeel Universal - Kansas City, Missouri | 03/2010 - 02/2012
 
 - **Proactively led our transition from Flash to HTML5** years ahead of browsers dropping support. After ample research,
   I proposed a strategy and guidelines for external game developers to rewrite our core game titles like USA Today
@@ -123,7 +123,7 @@ professional development of its engineers.
 
 ### Web Integrator
 
-#### Adamson USA - Lee Summit, Missouri | 2009 - 2010
+#### Adamson USA - Lee Summit, Missouri | 01/2009 - 02/2010
 
 - **Secured and retained major clients** Delivering digital marketing products to iconic brands like Kawasaki,
   ExxonMobil, Earth's Best, some boasting six-figure budgets.

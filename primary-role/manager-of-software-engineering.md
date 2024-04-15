@@ -140,7 +140,7 @@ professional development of its engineers.
 
 HTML5, CSS, SCSS, JavaScript, React, Babel, TypeScript, Markdown, XML, UML, YAML, Bootstrap, NodeJs, Jest, Playwright,
 Cypress, Testing Library, JSON, Python, Django, Svelte, Next.js, Java, Ruby, Rails, PHP, Shell, Powershell, ZSH, Git,
-MySQL, Postgres, Mongo, Docker, Kubernetes
+MySQL, PostgreSQL, Mongo, GraphQL, Docker, Kubernetes
 
 ### Tools
 
@@ -149,7 +149,7 @@ Codespaces, K9s, Github Actions, Copilot, Chat GPT, Claude, Jira, Confluence, iT
 
 ### Advanced Skills
 
-Accessibility, Application Security, Artificial Intelligence, Automated Testing And QA, Back-End Web Development,
+Scrum and Kanban methodologies, Accessibility, Application Security, Artificial Intelligence, Automated Testing And QA, Back-End Web Development,
 Client-side Debugging, Cloud Hosting and Operations, CMS Systems, Continuous Integration, Build Process and Delivery,
 Data Science And Analytics, Developer Experience, Development Operations, Digital Marketing, Ecommerce Systems, Email
 Campaigns & Templates, Fullstack Development, Front-End Web Development, Information Architecture, Online Compliance,

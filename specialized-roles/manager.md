@@ -12,9 +12,9 @@ Extensive experience leading software engineering teams across a diverse
 portfolio of digital products and services, I have evolved into a respected
 leader capable of managing software engineering teams effectively. My commitment
 to the success, growth, and prosperity of the software engineers on my team is
-unparalleled. I will serve and support **[COMPANY_NAME]** and strive to
-communicate their vision to my team. I am confident that I can accomplish
-**[COMPANY_LEADERSHIP]**'s vision and ensure the company's prosperity.
+unparalleled. Committed to driving [COMPANY_NAME]'s vision forward, I am eager
+to leverage my skills to contribute to the company's success and the
+professional development of its engineers.
 
 ## Work Experience
 

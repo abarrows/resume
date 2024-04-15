@@ -39,8 +39,8 @@ communicate their vision to my team. I am confident that I can accomplish
   Azure.** Transitioned 20+ digital products and 40+ web services to boost
   operational efficiency, scalability, and security within our digital ecosystem
   while coordinating front-end efforts with DevOps.
-- **Reduced time to setup new web applications by over 70%** and significantly
-  enhanced developer experience by employing a 'Principle' web application
+- **Reduced time to setup new web applications by over 70% and significantly
+  enhanced developer experience** by employing a 'Principle' web application
   template, front-end had a centralized blueprint for our evolving standards,
   tooling, and common components. As new patterns emerged, all connected
   projects were automatically synced with a pull request.
@@ -49,8 +49,7 @@ communicate their vision to my team. I am confident that I can accomplish
   minutes, all without leaving VS Code.** This breakthrough has been widely
   acclaimed by contractors and new hires as a new benchmark in developer
   productivity and developer experience.
-- Fostered exceptional growth and development within my software engineering
-  team, **facilitating more engineering job promotions than all other technical team combined.**
+- Fostered exceptional growth and development within my software engineering team, **facilitating more engineering job promotions than all other technical team combined.**
 - Pioneered and championed system to streamline technical
   roles and career paths for my team While securing leadership buy-in, the
   **Engineering Promotion Matrix was rolled out to all technical teams and adopted company-wide.**
@@ -80,11 +79,10 @@ communicate their vision to my team. I am confident that I can accomplish
   eliminated many unnecessary expenses and strategically shifted to more cost
   effective platforms like Jira, Github, and a new negotiated contract with
   Browserstack.
-- Led User Privacy Compliance Overhaul on our entire portfolio of 40+ digital
-  products. Directed a nine-month initiative to align with CCPA, GDPR, and COPA
-  regulations, collaborating with key stakeholders and external vendors.
-  **Established enduring user privacy programs and trained 3 teams in privacy-first best practices, resulting in a 100% compliance rate with zero violations since 2020
-  **.
+- **Led User Privacy Compliance Overhaul on our entire portfolio of 40+ digital
+  products resulting in 100% privacy compliance.** Directed a nine-month
+  initiative to align with CCPA, GDPR, and COPA regulations, collaborated with
+  key stakeholders, vendors and trained 3 teams in Privacy-First best practices.
 - **Planned and supervised a successful 3 month enterprise migration from
   Bitbucket to Github.com** by grooming our 400+ repositories, we succeeded in
   moving 250 of our active repositories while coordinating with lead engineers

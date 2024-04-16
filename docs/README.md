@@ -2,9 +2,7 @@
 
 913-548-6290 | [acbarrows@gmail.com](mailto:acbarrows@gmail.com)
 
-Olathe, KS | <https://www.andybarrows.com>
-
----
+Olathe, KS | [andybarrows.com](https://www.andybarrows.com)
 
 ## Objective
 

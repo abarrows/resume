@@ -1,4 +1,3 @@
-remote_theme: 'mmistakes/jekyll-theme-basically-basic@1.4.5'
-
-layout: blog # or `grid`
+remote_theme: 'poole/hyde'
+baseurl: 'https://abarrows.github.io/resume/'
 title: Andrew Barrows Resume

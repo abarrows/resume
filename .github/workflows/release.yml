@@ -1,34 +1,60 @@
 name: Publish Resume Formats
 
 on:
+  workflow_dispatch:
   push:
+    # paths:
+    #   - 'positions/index.md'
   release:
     types: [published]
 
 env:
+  resume_path: 'positions/*.md'
   GITHUB_TOKEN: ${{ github.token }}
 
 jobs:
-  publish-and-release:
+  publish-pdf:
     runs-on: ubuntu-latest
-    name: Publish Document to Release
+    name: Generate to PDF
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Publish PDF Document
-        uses: shrink/actions-document-publish@v1
-        id: publish-document
+        uses: actions/checkout@v4
+      - name: 'Publish PDF and HTML5 Document'
+        uses: baileyjm02/markdown-to-pdf@v1
         with:
-          sources: 'docs/*.md'
-      - if: github.event_name == 'release' && github.event.action == 'published'
-        name: Get Release
-        id: release
-        uses: bruceadams/get-release@v1.2.0
-      - if: github.event_name == 'release' && github.event.action == 'published'
-        name: Attach PDF to Release
-        uses: actions/upload-release-asset@v1
+          input_dir: ${{env.resume_path}}
+          output_dir: ${{env.resume_path}}/formats
+          images_dir: images/
+          # for example <img src="./images/file-name.png">
+          image_import: /images
+
+  publish-JSON:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install markdown2 pypandoc
+
+      - name: Generate JSON version of Resume
+        run: |
+          python -c "import json; md = open('${{env.resume_path}}').read(); json.dump({'content': md}, open('${{env.resume_path}}', 'w'))"
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v2
         with:
-          upload_url: ${{ steps.release.outputs.upload_url }}
-          asset_path: ${{ steps.publish-document.outputs.pdf }}
-          asset_name: 'document.pdf'
-          asset_content_type: application/pdf
+          name: Resume-Formats
+          path: positions/
+
+      - name: 'Upload Resume and Formats'
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-formats
+          path: |
+            ${{ env.resume_path }}
+            ${{ env.resume_path }}/formats/

@@ -1,0 +1,15 @@
+name: ⬆️ Generate Downloadable Formats
+
+on:
+  release:
+    types: [released]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Publish PDF of Resume'
+        uses: shrink/actions-document-publish@v1
+        id: publish-document
+        with:
+          sources: 'primary-role/*.md'

@@ -22,8 +22,8 @@ jobs:
       - name: 'Publish PDF and HTML5 Document'
         uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: ${{env.resume_path}}
-          output_dir: ${{env.resume_path}}/formats
+          input_dir: '${{env.resume_path}}'
+          output_dir: '${{env.resume_path}}/formats'
           images_dir: images/
           # for example <img src="./images/file-name.png">
           image_import: /images

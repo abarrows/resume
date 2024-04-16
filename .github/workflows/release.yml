@@ -9,26 +9,11 @@ on:
     types: [published]
 
 env:
-  resume_path: 'positions/*.md'
+  resume_path: 'positions'
   GITHUB_TOKEN: ${{ github.token }}
 
 jobs:
-  publish-pdf:
-    runs-on: ubuntu-latest
-    name: Generate to PDF
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: 'Publish PDF and HTML5 Document'
-        uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_dir: '${{env.resume_path}}'
-          output_dir: '${{env.resume_path}}/formats'
-          images_dir: images/
-          # for example <img src="./images/file-name.png">
-          image_import: /images
-
-  publish-JSON:
+  publish-formats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -42,9 +27,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install markdown2 pypandoc
 
+      - name: Convert Markdown to HTML
+        run: |
+          python -c "import markdown2; html = markdown2.markdown_path('${{env.resume_path}}/index.md'); open('${{env.resume_path}}/resume.html', 'w').write(html)"
+
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc ${{env.resume_path}}/resume.md -o ${{env.resume_path}}/resume.pdf
+
       - name: Generate JSON version of Resume
         run: |
-          python -c "import json; md = open('${{env.resume_path}}').read(); json.dump({'content': md}, open('${{env.resume_path}}', 'w'))"
+          python -c "import json; md = open('${{env.resume_path}}/index.md').read(); json.dump({'content': md}, open('${{env.resume_path}}/index.json', 'w'))"
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:

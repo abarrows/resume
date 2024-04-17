@@ -27,9 +27,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install markdown2
 
-      - name: Convert Markdown to HTML
-        run: |
-          python -c "import markdown2; html = markdown2.markdown_path('${{env.resume_path}}/index.md'); open('${{env.resume_path}}/resume.html', 'w').write(html)"
+      # - name: Convert Markdown to HTML
+      #   run: |
+      #     python -c "import markdown2; html = markdown2.markdown_path('${{env.resume_path}}/index.md'); open('${{env.resume_path}}/index.html', 'w').write(html)"
 
       - uses: docker://pandoc/latex:2.9
         with:

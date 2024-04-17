@@ -20,8 +20,7 @@ permalink: pretty
 # Setup
 tagline: 'Software Engineering Manager'
 description: 'This repo serves as a single source of truth for my resume and related information.'
-url: http://hyde.getpoole.com
-baseurl: ''
+url: https://github.com/abarrows/resume
 
 paginate: 5
 

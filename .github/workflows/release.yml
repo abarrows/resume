@@ -9,7 +9,7 @@ on:
     types: [published]
 
 env:
-  resume_path: '/positions'
+  resume_path: './positions'
   GITHUB_TOKEN: ${{ github.token }}
 
 jobs:

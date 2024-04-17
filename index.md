@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Andrew Barrows
 
 913-548-6290 | [acbarrows@gmail.com](mailto:acbarrows@gmail.com)

@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
   push:
     # paths:
-    #   - 'positions/index.md'
+    #   - './index.md'
   release:
     types: [published]
 
 env:
-  resume_path: './positions'
+  resume_path: './'
   GITHUB_TOKEN: ${{ github.token }}
 
 jobs:
@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,16 +35,21 @@ jobs:
 
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=${{env.resume_path}}/index.pdf ${{env.resume_path}}/index.md
+          args: --output=${{env.resume_path}}index.pdf ${{env.resume_path}}index.md
 
       - name: 'Generate JSON version of Resume'
         run: |
-          python -c "import json; md = open('${{env.resume_path}}/index.md').read(); json.dump({'content': md}, open('${{env.resume_path}}/index.json', 'w'))"
+          python -c "import json; md = open('${{env.resume_path}}index.md').read(); json.dump({'content': md}, open('${{env.resume_path}}index.json', 'w'))"
 
-      - name: 'Upload Resume and Formats'
-        uses: actions/upload-artifact@v4
+      # - name: 'Upload Resume and Formats'
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: resume-formats
+      #     path: |
+      #       ${{ env.resume_path }}index.md
+      #       ${{ env.resume_path }}formats/index.json
+      #       ${{ env.resume_path }}formats/index.pdf
+      - name: 'Commit Resume in Various Formats'
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: resume-formats
-          path: |
-            ${{ env.resume_path }}
-            ${{ env.resume_path }}/formats/
+          commit_message: 'Adding pdf, json, markdown, and html versions of resume'

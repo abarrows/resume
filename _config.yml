@@ -1,2 +1,30 @@
 remote_theme: 'poole/hyde'
 title: Andrew Barrows Resume
+base_url: /
+author:
+  name: 'Andrew Barrows'
+  url: https://andybarrows.com
+
+# Dependencies
+email: andy@andybarrows.com
+github_username: abarrows
+
+# Markdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+  hard_wrap: false
+
+# Permalinks
+permalink: pretty
+
+# Setup
+tagline: 'Software Engineering Manager'
+description: 'This repo serves as a single source of truth for my resume and related information.'
+url: http://hyde.getpoole.com
+baseurl: ''
+
+paginate: 5
+
+# Custom vars
+github:
+  repo: https://github.com/abarrows/resume

@@ -5,9 +5,9 @@ title: Home
 
 # Andrew Barrows
 
-913-548-6290 | [acbarrows@gmail.com](mailto:acbarrows@gmail.com)
+913-548-6290 &bull; [acbarrows@gmail.com](mailto:acbarrows@gmail.com)
 
-Olathe, KS | [andybarrows.com](https://www.andybarrows.com)
+Olathe, KS &bull; [andybarrows.com](https://www.andybarrows.com) &bull; [LinkedIn Profile](https://www.linkedin.com/in/andrewbarrows/)
 
 ## Objective
 
@@ -19,9 +19,9 @@ professional development of its engineers.
 
 ## Work Experience
 
-### Engineering Manager
+### Andrews McMeel Universal - Kansas City, Missouri
 
-#### Andrews McMeel Universal - Kansas City, Missouri | 06/2019 - 04/2024
+#### Engineering Manager | 06/2019 - 04/2024
 
 - Led front-end engineering architecture and development across 15+ key websites and services, **culminating in a peak
   of 8.6 million monthly user impressions** while managing Software Engineers across three product teams.
@@ -70,9 +70,7 @@ professional development of its engineers.
   repositories, we succeeded in moving 250 of our active repositories while coordinating with lead engineers from each
   technical team.
 
-### Lead Front-End Web Developer
-
-#### Andrews McMeel Universal - Kansas City, Missouri | 01/2017 - 06/2019
+#### Lead Front-End Web Developer | 01/2017 - 06/2019
 
 - **Led our front-end engineering team to win a 2020 Webby Award** Interfaced between 9 teams while guiding and
   mentoring the front-end engineers. We successfully built and released thefarside.com before our contractual deadline.
@@ -91,9 +89,7 @@ professional development of its engineers.
   digital market such as responsive design, A/B testing, SEO, style guides, web-accessibility, deployment checklists,
   CI/CD Pipelines and many other improvements to our development process.
 
-### Web Designer
-
-#### Andrews McMeel Universal - Kansas City, Missouri | 03/2012 - 01/2017
+#### Web Designer | 03/2012 - 01/2017
 
 - **Planned and executed the front-end architecture for our syndication service “GoContent”** Architected web service
   which operated for almost a decade.  Embedding syndicated comics, games, and text articles within enterprise level
@@ -112,9 +108,7 @@ professional development of its engineers.
   Contributed to a steady climb above benchmark growth and **reaching nearly one billion page views in 2013** - almost
   10% higher than the previous year.
 
-### Flash Developer
-
-#### Andrews McMeel Universal - Kansas City, Missouri | 03/2010 - 02/2012
+#### Flash Developer | 03/2010 - 02/2012
 
 - **Proactively led our transition from Flash to HTML5** years ahead of browsers dropping support. After ample research,
   I proposed a strategy and guidelines for external game developers to rewrite our core game titles like USA Today
@@ -124,9 +118,9 @@ professional development of its engineers.
 - **Eradicated a 12-month backlog within the first 6 months** by establishing robust QA testing plans and applying
   defensive coding best practices.
 
-### Web Integrator
+### Adamson USA - Lee Summit, Missouri
 
-#### Adamson USA - Lee Summit, Missouri | 01/2009 - 02/2010
+#### Web Integrator | 01/2009 - 02/2010
 
 - **Secured and retained major clients** Delivering digital marketing products to iconic brands like Kawasaki,
   ExxonMobil, Earth's Best, some boasting six-figure budgets.
@@ -148,13 +142,11 @@ MySQL, PostgreSQL, Mongo, GraphQL, Docker, Kubernetes
 ### Tools
 
 Photoshop, Illustrator, Adobe Xd, Figma, Omni-Graffle, Draw.Io, Vs Code, JetBrains WebStorm, Docker Desktop, Github
-Codespaces, K9s, Github Actions, Copilot, Chat GPT, Claude, Jira, Confluence, iTerm, Warp, Wordpress
+Codespaces, K9s, Github Actions, Copilot, Chat GPT, Claude, Jira, Confluence, Asana, iTerm, Warp, Wordpress
 
 ### Advanced Skills
 
-Scrum and Kanban methodologies, Accessibility, Application Security, Artificial Intelligence, Automated Testing And QA, Back-End Web Development,
-Client-side Debugging, Cloud Hosting and Operations, CMS Systems, Continuous Integration, Build Process and Delivery,
-Data Science And Analytics, Developer Experience, Development Operations, Digital Marketing, Ecommerce Systems, Email
+Scrum and Kanban methodologies, Accessibility, Application Security, Artificial Intelligence, Automated Testing And QA, Back-End Web Development, Client-side Debugging, Cloud Hosting and Operations, CMS Systems, Continuous Integration, Build Process and Delivery, Data Science And Analytics, Developer Experience, Development Operations, Digital Marketing, Ecommerce Systems, Email
 Campaigns & Templates, Fullstack Development, Front-End Web Development, Information Architecture, Online Compliance,
 Programmatic Advertising, Project Management, SEO, Software Architecture, Team Environment and Tooling, Technical
 Architecture, Technical Management, Third Party Advertising, User Behavior Analytics, User Experience Design, Web

@@ -80,6 +80,7 @@ professional development of its engineers.
 - **Planned and succeeded in transforming the department's front-end tech stack** from an outdated Ruby on Rails
   ecosystem full of high risk vulnerabilities to a modern, scalable architecture with React, Next.js, and other
   competitive technologies.
+- Initiated and led the adoption of the Atlassian suite (Jira, Confluence, Bitbucket), streamlining task management by building highly customized workflows for our engineers and stakeholders. This effort drove huge improvements in efficiency and productivity.
 - **Reduced maintenance and technical debt effort by 70% across all consumer facing products.** By proposing to senior
   leadership and coaching my peer technical leads we adopted several aggressive maintenance strategies using tools like
   Smart Plug-in Manager, Dependabot, template syncing, and other dependency automations.

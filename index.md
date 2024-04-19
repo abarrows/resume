@@ -80,7 +80,7 @@ professional development of its engineers.
 - **Planned and succeeded in transforming the department's front-end tech stack** from an outdated Ruby on Rails
   ecosystem full of high risk vulnerabilities to a modern, scalable architecture with React, Next.js, and other
   competitive technologies.
-- Initiated and led the adoption of the Atlassian suite (Jira, Confluence, Bitbucket), streamlining task management by building highly customized workflows for our engineers and stakeholders. This effort drove huge improvements in efficiency and productivity.
+- **Initiated and led the adoption of the Atlassian suite (Jira, Confluence, Bitbucket)**, streamlining task management by building highly customized workflows for our engineers and stakeholders. This effort drove huge improvements in efficiency and productivity.
 - **Reduced maintenance and technical debt effort by 70% across all consumer facing products.** By proposing to senior
   leadership and coaching my peer technical leads we adopted several aggressive maintenance strategies using tools like
   Smart Plug-in Manager, Dependabot, template syncing, and other dependency automations.
@@ -99,7 +99,7 @@ professional development of its engineers.
   19,000 new premium users with a conversion rate of 7.2%.
 - **Co-developed the award-winning GoComics mobile app** which maintained a 4.4 app rating while active. _Entertainment
   Weekly_ featured the mobile app on the “Must Have” list in May 2013.
-- **Served as the Product Owner and lead engineer during a redesign of Uexpress.com. Introduced a global article tagging
+- **Served as the Product Owner and lead engineer during a redesign of Uexpress.com.** Introduced a global article tagging
   system, related content, and successfully added an entire catalog of over 80 columnists; like Dear Abby and Miss
   Manners.
 - **Led and coordinated over 6k successful production releases by personally totalling 26,000 contributions** while

@@ -21,21 +21,19 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install markdown2
-
-      # - name: Convert Markdown to HTML
-      #   run: |
-      #     python -c "import markdown2; html = markdown2.markdown_path('${{env.resume_path}}/index.md'); open('${{env.resume_path}}/index.html', 'w').write(html)"
-
+      - name: Convert Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: ${{env.resume_path}}index.md
+          output: ${{env.resume_path}}index.html
+          github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
+          favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
       - uses: docker://pandoc/latex:2.9
         with:
           args: --output=${{env.resume_path}}index.pdf ${{env.resume_path}}index.md
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=${{env.resume_path}}index.docx --reference-doc=${{env.resume_path}}template.docx ${{env.resume_path}}index.md
 
       - name: 'Generate JSON version of Resume'
         run: |
@@ -46,9 +44,11 @@ jobs:
       #   with:
       #     name: resume-formats
       #     path: |
+      #       ${{ env.resume_path }}index.pdf
+      #       ${{ env.resume_path }}index.docx
+      #       ${{ env.resume_path }}index.html
+      #       ${{ env.resume_path }}index.json
       #       ${{ env.resume_path }}index.md
-      #       ${{ env.resume_path }}formats/index.json
-      #       ${{ env.resume_path }}formats/index.pdf
       - name: 'Commit Resume in Various Formats'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

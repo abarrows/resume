@@ -48,7 +48,7 @@ professional development of its engineers.
   creating an onboarding procedure which included ever evolving automations,
   scripts, and tooling.  A new engineer's machine was provisioned within the first few
   hours, allowing them to code their first day.
-  - Dramatically improved our engineering hiring process by introducing a "Hiring Matrix", **we set new department standards in efficient and inclusive hiring practices**. Evolved from hundreds of interviews, we routinely iterated and improved the system based on feedback from recruiters related relation system.
+- Dramatically improved our engineering hiring process by introducing a "Hiring Matrix", **we set new department standards in efficient and inclusive hiring practices**. Evolved from hundreds of interviews, we routinely iterated and improved the system based on feedback from recruiters related relation system.
 - Directed alongside 3 other engineering managers the rapid and **successful
   response to a state-sponsored ransomware attack. Achieving 100% data recovery
   without ransom payment in just four days.** We maintained service continuity

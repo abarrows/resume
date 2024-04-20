@@ -11,7 +11,7 @@ Olathe, KS &bull; [andybarrows.com](https://www.andybarrows.com) &bull; [LinkedI
 
 ## Objective
 
-Extensive experience leading software engineering teams across a diverse portfolio of digital products and services, I
+Extensive experience leading software engineering teams across a diverse portfolio of digital products and services. I
 have evolved into a respected leader capable of managing software engineering teams effectively. My commitment to the
 success, growth, and prosperity of the software engineers on my team is unparalleled. Committed to driving
 [COMPANY_NAME]'s vision forward, I am eager to leverage my skills to contribute to the [COMPANY_NAME]'s success and the

@@ -5,7 +5,7 @@ geometry: margin=1in
 
 # Andrew Barrows
 
-##### [ 913 548 6290 ] [Olathe, KS] \[[acbarrows@gmail.com](mailto:acbarrows@gmail.com)\] \[[andybarrows.com](https://www.andybarrows.com)\] \[[LinkedIn Profile](https://www.linkedin.com/in/andrewbarrows/)\]
+##### [ 913 548 6290 ] [Olathe, KS] \[[andy@andybarrows.com](mailto:andy@andybarrows.com)\] \[[andybarrows.com](https://www.andybarrows.com)\] \[[LinkedIn Profile](https://www.linkedin.com/in/andrewbarrows/)\]
 
 ## Objective
 
@@ -21,8 +21,7 @@ professional development of its engineers.
 
 #### Engineering Manager (06/2019 - 04/2024)
 
-- Led front-end engineering architecture and development across 15+ key websites and services, **culminating in a peak
-  of 8.6 million monthly user impressions** while managing Software Engineers across three product teams.
+- Led front-end engineering architecture and development across 15 key websites and services, **culminating in a peak of 8.6 million monthly user impressions while managing software engineers across three product teams.**
 - **Supervised front-end operations delivering over 16,000+ digital assets
   monthly,** including comics, games, and puzzles for prestigious clients like
   Apple, Amazon, and USA Today directly contributing to multi-million dollar

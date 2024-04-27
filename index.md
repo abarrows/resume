@@ -1,3 +1,5 @@
+
+
 ---
 layout: default
 geometry: margin=1in
@@ -58,37 +60,16 @@ professional development of its engineers.
 - **Planned and succeeded in transforming the department's front-end tech stack** from an outdated Ruby on Rails
   ecosystem full of high risk vulnerabilities to a modern, scalable architecture with React, Next.js, and other
   competitive technologies.
-- **Initiated and led the adoption of the Atlassian suite (Jira, Confluence, Bitbucket)**, streamlining task management by building highly customized workflows for our engineers and stakeholders. This effort drove huge improvements in efficiency and productivity.
-- **Reduced maintenance and technical debt effort by 70% across all consumer facing products.** Proposed to senior
-  leadership and coached my peer technical leads on the adoption of several maintenance strategies using tools like Smart Plug-in Manager, Dependabot, template syncing, and other dependency automations.
-- **Reduced UX team and front-end rework by 60%** through embracing component
-  libraries and unified design tokens while collaborating with UX designers and
-  front-end engineers.
-- **Served a crucial role in the education and facilitating the adoption of
-  advanced front-end strategies, thereby enhancing our digital market success.**
-  This included implementing responsive design, A/B testing, SEO,
-  style guides, web-accessibility, deployment checklists, web performance audits
-  among other leading industry standards in our development process.
+- Initiated and led the adoption of Atlassian suite (Jira, Confluence, Bitbucket) on an enterprise level, streamlining task management by building highly customized workflows for each team. This effort drove huge improvements in efficiency and prioritization.
+- Achieved enhanced security and efficiency by orchestrating the migration of over 400 repositories to GitHub while fostering collaboration of best practices amongst technical leads.
+- Reduced maintenance and technical debt effort by 70% across consumer facing products by encouraging peer technical leads to adopt competitive maintenance strategies and tools.
 
-#### Web Designer (03/2012 - 01/2017)
+#### Web Designer (03/2011 - 01/2017)
 
-- **Planned and executed the front-end architecture for our syndication service *GoContent*** Architected web service
-  which operated for almost a decade.  Embedding syndicated comics, games, and text articles within enterprise level
-  clients' websites like USAToday.com, WashingtonPost.com and New York Times reaching 4.5 million users per month.
-- **Planned, designed, and coded most successful digital retention campaign in AMU's history** With little assistance; yielding
-  19,000 new premium users with a conversion rate of 7.2%.
-- **Co-developed the award-winning GoComics mobile app** which maintained a 4.4
-  app rating while active with tens of thousands of subscribers. *Entertainment
-  Weekly* featured the mobile app on the "Must Have" list in May 2013.
-- **Served as the Product Owner and lead engineer during a redesign of Uexpress.com.** Introduced a global article tagging
-  system, related content system, and successfully added an entire catalog of over 80 columnists; like Dear Abby and Miss
-  Manners.
-- **Led and coordinated over 6k successful production releases by personally
-  totalling 26,000 contributions.** This effort improved and supported a massive
-  ecosystem of web applications and services with over three million lines of proprietary code.
-- Played a pivotal role in building dozens of web applications and services for the digital product *GoComics*.
-  Contributed to a steady climb above benchmark growth and **reaching nearly one billion page views in 2013** - almost
-  10% higher than the previous year.
+- Architected and led development of syndication service responsible for generating 4.5 million monthly user impressions for enterprise level website clients like USAToday.com, WashingtonPost.com and New York Times.
+- Researched business reviews, designed, and coded most successful digital retention campaign in AMU's history with little assistance but a lot of creativity; 19,000 new premium user with a conversion rate of 7.2%.
+- Directly contributed to new benchmark of reaching nearly one billion page views while playing key role in decision making for GoComics.com and related products.
+- Led and facilitated over 6k successful production releases while personally totaling 26,000 contributions supporting our enterprise of products and services.
 
 #### Flash Developer (03/2010 - 02/2012)
 

@@ -39,24 +39,12 @@ professional development of its engineers.
   lifecycle. **This breakthrough reduced admin time from over an hour to less than
   five minutes, all without leaving VS Code.** The workflow was widely acclaimed
  as a new benchmark in developer experience and productivity.
-- Fostered exceptional growth and development within my software engineering team, **facilitating more engineering job promotions than all other technical team combined.**
-- Pioneered and championed new system which streamline technical roles and
-  career paths. While securing leadership buy-in, the ***Engineering Promotion Matrix* was rolled out to all technical teams and adopted company-wide.**
-- **Reduced onboarding new software engineer's from 60 days to a 14 days** by
-  creating an onboarding procedure which included ever evolving automations,
-  scripts, and tooling.  A new engineer's machine was provisioned within the first few
-  hours, allowing them to code their first day.
-- Dramatically improved our engineering hiring process by introducing a "Hiring Matrix", **we set new department standards in efficient and inclusive hiring practices**. Evolved from hundreds of interviews, we routinely iterated and improved the system based on feedback from recruiters related relation system.
-- Directed alongside 3 other engineering managers the rapid and **successful
-  response to a state-sponsored ransomware attack. Achieving 100% data recovery
-  without ransom payment in just four days.** We maintained service continuity
-  and all SLAs for hundreds of clients and employees, securing
-  client trust while coordinating with senior leadership, cyber insurance, and the FBI.
-- Standardized our front-end continuous integration system across our catalog of products by leveraging GitHub's
-  enterprise features and closely collaborating with our dev ops team. We reimagined the pull request process and
-  deployments to be faster and higher in quality. There is an increasing list of efficiencies covering 12 "health
-  checks" ranging in areas from automated testing, security, seo, web performance, and more to ensure the highest level
-  of quality related delivered system.
+- Proven track record of inspiring others by fostering exceptional growth and development, more front-end engineering job promotions were realized than all other technical teams combined during my tenure as manager.
+- Promoted growth mindset culture throughout technical teams and across the company.Â  Achieved by pioneering a new career growth system of streamlined technical roles and progressive career paths.
+- Reduced onboarding time for new software engineers from 60 days to 14 days by creating an onboarding procedure which included ever evolving automations, dotfile scripts, and tooling.
+- Dramatically improved our engineering hiring process by introducing a Candidate Engagement Matrix, setting a new benchmark in efficient and inclusive hiring practices while evolving from hundreds of interviews and continuously improved through recruiter feedback.
+- Directed alongside 3 other engineering managers during the rapid and successful response to a state-sponsored ransomware attack. Within four days we achieved 100% data recovery without paying a ransom. Maintained service continuity, all SLA commitments, and conducted operating system scans for 150 employees while coordinating efforts with senior leadership, cyber insurance, and FBI.
+- Increased deployment speeds by 22% and exponentially improved code and product quality on our flagship applications while in close collaboration with our DevOps team.
 - **Cut the annual digital product development budget by nearly 50%, saving the department over $14,000**, by using a
   zero-based budgeting process, we eliminated many unnecessary expenses and strategically shifted to more cost effective
   platforms like Jira, Github, and a new negotiated contract with Browserstack.

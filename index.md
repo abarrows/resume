@@ -45,23 +45,16 @@ professional development of its engineers.
 - Dramatically improved our engineering hiring process by introducing a Candidate Engagement Matrix, setting a new benchmark in efficient and inclusive hiring practices while evolving from hundreds of interviews and continuously improved through recruiter feedback.
 - Directed alongside 3 other engineering managers during the rapid and successful response to a state-sponsored ransomware attack. Within four days we achieved 100% data recovery without paying a ransom. Maintained service continuity, all SLA commitments, and conducted operating system scans for 150 employees while coordinating efforts with senior leadership, cyber insurance, and FBI.
 - Increased deployment speeds by 22% and exponentially improved code and product quality on our flagship applications while in close collaboration with our DevOps team.
-- **Cut the annual digital product development budget by nearly 50%, saving the department over $14,000**, by using a
-  zero-based budgeting process, we eliminated many unnecessary expenses and strategically shifted to more cost effective
-  platforms like Jira, Github, and a new negotiated contract with Browserstack.
-- **Led User Privacy Compliance Overhaul on our entire portfolio of 40+ digital products resulting in 100% privacy
-  compliance.** Directed a nine-month initiative to align with CCPA, GDPR, and COPA regulations, collaborated with key
-  stakeholders, vendors and trained 3 teams in Privacy-First best practices.
+- Spearheaded reduction in annual budget by nearly 50%. Adopted zero-based budget strategy to eliminate unnecessary expenses and strategically shifted to more cost-effective platforms like Atlassian, Github, and Browserstack while negotiating with vendors.
 - **Planned and supervised a successful 3 month enterprise migration from Bitbucket to Github.com** by grooming our 400+
   repositories, we succeeded in moving 250 of our active repositories while coordinating with lead engineers from each
   technical team.
 
 #### Lead Front-End Web Developer (01/2017 - 06/2019)
 
-- **Led our front-end engineering team to win a 2020 Webby Award** Interfaced between 9 teams while guiding and
-  mentoring the front-end engineers. We successfully built and released thefarside.com before our contractual deadline.
-- **Appointed as the primary liaison during an independent company-wide security audit resulting in a successful, low
-  risk final assessment** For 60 days coordinated preemptive security improvements to our software engineers while
-  cooperating with consultants in a transparent and organized fashion.
+- Led our front-end engineering team to win a Webby Award for thefarside.com.
+- Served as key liaison in an independent company-wide security audit, achieving low risk assessment while transparently supporting consultants and senior leadership.
+- Led a User Privacy Compliance campaign on a portfolio of 40 digital products resulting in 100% privacy compliance with CCPA, GDPR, and COPA regulations.
 - **Planned and succeeded in transforming the department's front-end tech stack** from an outdated Ruby on Rails
   ecosystem full of high risk vulnerabilities to a modern, scalable architecture with React, Next.js, and other
   competitive technologies.

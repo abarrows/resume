@@ -47,16 +47,15 @@ strategic vision, we will achieve outstanding results together.
 - Directed alongside 3 other engineering managers during the rapid and successful response to a state-sponsored ransomware attack. Within four days we achieved 100% data recovery without paying a ransom. Maintained service continuity, all SLA commitments, and conducted operating system scans for 150 employees while coordinating efforts with senior leadership, cyber insurance, and FBI.
 - Increased deployment speeds by 22% and exponentially improved code and product quality on our flagship applications while in close collaboration with our DevOps team.
 - Spearheaded reduction in annual budget by nearly 50%. Adopted zero-based budget strategy to eliminate unnecessary expenses and strategically shifted to more cost-effective platforms like Atlassian, Github, and Browserstack while negotiating with vendors.
-- **Planned and supervised a successful 3 month enterprise migration from Bitbucket to Github.com** by grooming our 400+
-  repositories, we succeeded in moving 250 of our active repositories while coordinating with lead engineers from each
-  technical team.
+- Planned and supervised a successful 3 month enterprise migration from Bitbucket to Github.com by grooming our 400+
+  repositories, we succeeded in moving 250 of our active repositories while coordinating with lead engineers from each technical team.
 
 #### Lead Front-End Web Developer (01/2017 - 06/2019)
 
 - Led our front-end engineering team to win a Webby Award for thefarside.com.
 - Served as key liaison in an independent company-wide security audit, achieving low risk assessment while transparently supporting consultants and senior leadership.
 - Led a User Privacy Compliance campaign on a portfolio of 40 digital products resulting in 100% privacy compliance with CCPA, GDPR, and COPA regulations.
-- **Planned and succeeded in transforming the department's front-end tech stack** from an outdated Ruby on Rails
+- Planned and succeeded in transforming the department's front-end tech stack from an outdated Ruby on Rails
   ecosystem full of high risk vulnerabilities to a modern, scalable architecture with React, Next.js, and other
   competitive technologies.
 - Initiated and led the adoption of Atlassian suite (Jira, Confluence, Bitbucket) on an enterprise level, streamlining task management by building highly customized workflows for each team. This effort drove huge improvements in efficiency and prioritization.
@@ -90,18 +89,29 @@ strategic vision, we will achieve outstanding results together.
 
 ## Technical Expertise
 
-**Proficiencies:** HTML5, CSS, SCSS, JavaScript, React, TypeScript, Markdown, XML, UML, YAML, Material UI, Node.Js, Jest, Playwright, Cypress, Testing
-Library, Python, Django, Svelte, Next.js, Java, Ruby, Rails, PHP, Shell, Powershell, ZSH, MySQL, PostgreSQL, Mongo, GraphQL, Docker, Kubernetes
+### Proficiencies
 
-**Tools:** Photoshop, Illustrator, Figma, Draw.Io, VS
+HTML5, CSS, SCSS, JavaScript, React, TypeScript, Markdown, XML, UML, YAML,
+Material UI, Node.Js, Jest, Playwright, Cypress, Testing, Library, Python,
+Django, Svelte, Next.js, Java, Ruby, Rails, PHP, Shell, Powershell, ZSH, MySQL,
+PostgreSQL, Mongo, GraphQL, Docker, Kubernetes
+
+### Tools Photoshop, Illustrator, Figma, Draw.Io, VS
+
 Code, JetBrains WebStorm, Docker Desktop, Github Codespaces, K9s, Github
 Actions, Copilot, Chat GPT, Claude, Jira, Confluence, Asana, iTerm, Warp,
 Wordpress,Mac OSX, Unix, GCP, AWS, Microsoft Azure, Github Enterprise,
 Sentry Error Reporting, Zendesk Enterprise
 
-**Advanced Skills:** Scrum and Kanban methodologies, Accessibility, Application Security, Artificial Intelligence, Automated Testing And QA, Back-End Web Development, Client-side Debugging, Cloud Hosting and Operations, CMS Systems, Continuous Integration, Build Process and Delivery, Data Science And Analytics, Developer Experience, Development Operations, Digital Marketing, Ecommerce Systems, Email
-Campaigns & Templates, Fullstack Development, Front-End Web Development, Information Architecture, Online Compliance,
-Programmatic Advertising, Project Management, SEO, Software Architecture, Team Environment and Tooling, Technical
+### Advanced Skills
+
+Scrum and Kanban methodologies, Accessibility, Application Security, Artificial
+Intelligence, Automated Testing And QA, Back-End Web Development, Client-side
+Debugging, Cloud Hosting and Operations, CMS Systems, Continuous Integration,
+Build Process and Delivery, Data Science And Analytics, Developer Experience,
+Development Operations, Digital Marketing, Ecommerce Systems, Email Campaigns &
+Templates, Fullstack Development, Front-End Web Development, Information
+Architecture, Online Compliance, Programmatic Advertising, Project Management, SEO, Software Architecture, Team Environment and Tooling, Technical
 Architecture, Technical Management, Third Party Advertising, User Behavior Analytics, User Experience Design, Web
 Performance
 

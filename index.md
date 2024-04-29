@@ -1,42 +1,41 @@
 
-
 ---
+
 layout: default
 geometry: margin=1in
 ---
 
 # Andrew Barrows
 
-##### [ 913 548 6290 ] [Olathe, KS] \[[andy@andybarrows.com](mailto:andy@andybarrows.com)\] \[[andybarrows.com](https://www.andybarrows.com)\] \[[LinkedIn Profile](https://www.linkedin.com/in/andrewbarrows/)\]
+##### [ 913 548 6290 ] [Olathe, KS] \[[me@andybarrows.com](mailto:me@andybarrows.com)\] \[[andybarrows.com](https://www.andybarrows.com)\] \[[LinkedIn Profile](https://www.linkedin.com/in/andrewbarrows/)\]
 
 ## Objective
 
-Extensive experience leading software engineering teams across a diverse portfolio of digital products and services. I
-have evolved into a respected leader capable of managing software engineering teams effectively. My commitment to the
-success, growth, and prosperity of the software engineers on my team is unparalleled. Committed to driving
-[COMPANY_NAME]'s vision forward, I am eager to leverage my skills to contribute to the [COMPANY_NAME]'s success and the
-professional development of its engineers.
+Extensive experience developing across a diverse portfolio of digital products, services, and architecture. I have evolved into a respected leader
+renowned for fostering award-winning teams that deliver excellence.  While under
+my leadership, the software engineers I served, consistently reached new
+benchmarks in engineering performance, innovation, and efficiency.  Through the
+relentless pursuit of offering value to my leadership and team, I have evolved
+remarkable approaches to hire, retain, and transform individual engineering
+strengths into superpowers. This resume captures just a fraction of my extensive
+experience and innovation. I am committed to offer my wealth of experience and
+skills to support the mission at [COMPANY_NAME]. [MY_LEADERSHIP], under your
+strategic vision, we will achieve outstanding results together.
 
 ## Work Experience
 
 ### Andrews McMeel Universal - Kansas City, Missouri
 
-#### Engineering Manager (06/2019 - 04/2024)
+#### Engineering Manager (07/2019 - 04/2024)
 
-- Led front-end engineering architecture and development across 15 key websites and services, **culminating in a peak of 8.6 million monthly user impressions while managing software engineers across three product teams.**
-- **Supervised front-end operations delivering over 16,000+ digital assets
-  monthly,** including comics, games, and puzzles for prestigious clients like
+- Led front-end engineering architecture and development across 15 key websites and services, culminating in a peak of 8.6 million monthly user impressions while managing software engineers across three product teams.
+- Supervised front-end operations delivering over 16,000+ digital assets
+  monthly, including comics, games, and puzzles for prestigious clients like
   Apple, Amazon, and USA Today directly contributing to multi-million dollar
   annual revenue streams.
-- Played an key role in company-wide AI adoption. Through extensive training and
-  usage of enterprise level models like GitHub CoPilot, Gemini Pro, and
-  ChatGPT, **corporate AI integration guidelines were development** in
-  collaboration with technical leadership.
-- **Reduced hosting cost by 60% by facilitating a 5-year cloud migration plan to Azure.** Transitioned 20+ digital products and 40+ web services to boost operational efficiency, scalability, and security within our digital ecosystem while coordinating front-end efforts with DevOps.
-- **Reduced time to setup new web applications by over 70% and significantly enhanced developer experience** by
-  employing a 'Principle' web application template, front-end had a centralized
-  blueprint for our evolving standards, tooling, and common components. As new
-  patterns emerged, all connected projects were automatically synced with those changes.
+- Played a key role in company-wide AI adoption. Through extensive training and usage of enterprise level models like GitHub CoPilot, Gemini Pro, and ChatGPT, corporate AI integration guidelines were developed in collaboration with technical leadership.
+- Reduced hosting cost by 60% by facilitating a 5-year cloud migration plan to Azure. Transitioned 20+ digital products and 40+ web services to boost operational efficiency, scalability, and security within our digital ecosystem while coordinating front-end efforts with DevOps.
+- Reduced time to setup new web applications by over 45% and significantly enhanced developer experience by employing a ‘Principle’ web application template, front-end had a centralized blueprint for our evolving standards, tooling, and common components. As new patterns emerged, all connected projects were automatically synced with a pull request.
 - Revolutionized the front-end development workflow by automating non-coding activities throughout a ticket's
   lifecycle. **This breakthrough reduced admin time from over an hour to less than
   five minutes, all without leaving VS Code.** The workflow was widely acclaimed
@@ -73,34 +72,28 @@ professional development of its engineers.
 
 #### Flash Developer (03/2010 - 02/2012)
 
-- **Proactively led our transition from Flash to HTML5** years ahead of browsers dropping support. After ample research,
-  I proposed a strategy and guidelines for external game developers to rewrite our core game titles like USA Today
-  Crossword, Daily Sudoku, and AARP Crossword.
-- **Reduced ongoing game maintenance by 90%** Transformed 80+ games into a version controlled catalog of scalable flash
-  games engines capable of client-branded versions.
-- **Eradicated a 12-month backlog within the first 6 months** by establishing robust QA testing plans and applying
-  defensive coding best practices.
+- Proactively dro our transition from Flash to HTML5 years ahead of browsers dropping support. After researching market data, proposed a strategy and
+  guidelines for external game developers to rewrite core game titles like USA
+  Today Crossword, Daily Sudoku, and AARP Crossword.
+- Reduced ongoing game maintenance by 90% by transforming 80+ games into
+  maintainable engines capable of scaling for client branded versions.
+- Eradicated a 12-month backlog within the first 6 months by establishing robust
+  QA testing plans and applying defensive coding best practices.
 
 ### Adamson USA - Lee Summit, Missouri
 
 #### Web Integrator (01/2009 - 02/2010)
 
-- Secured and retained major clients by delivering digital marketing products to **iconic brands like Kawasaki,
-  ExxonMobil, Earth's Best, some boasting six-figure budgets.**
-- Extending company and client digital capabilities by serving our team as the
-  primary web developer, I completing several high-value CMS driven site rebuilds including the company's corporate website.
-- Executed dozens of successful multi-channel digital marketing campaigns
-  through coordination of email, web, and video promotions while working with a small team of web developers and designers.
-- Enhanced user engagement and improved click-through rates by using data-driven strategies to execute multiple email campaigns in close collaboration with our clients.
+- Secured and retained major clients commitments by delivering digital marketing products to iconic brands like Kawasaki, ExxonMobil, Earth's Best, some boasting six-figure budgets.
+- Extending company and client digital capabilities by completing several high-value CMS driven site rebuilds including the company's corporate website while serving our team as the primary web developer.
+- Led successful multi-channel digital marketing campaigns, enhancing user engagement and click-through rates by implementing data-driven strategies across email, web, and video promotions, in collaboration with a dedicated team of developers, designers, and clients.
 
 ## Technical Expertise
 
-**Proficiencies:** HTML5, CSS, SCSS, JavaScript, React, Babel, TypeScript,
-Markdown, XML, UML, YAML, Bootstrap, NodeJs, Jest, Playwright, Cypress, Testing
-Library, JSON, Python, Django, Svelte, Next.js, Java, Ruby, Rails, PHP, Shell,
-Powershell, ZSH, Git, MySQL, PostgreSQL, Mongo, GraphQL, Docker, Kubernetes
+**Proficiencies:** HTML5, CSS, SCSS, JavaScript, React, TypeScript, Markdown, XML, UML, YAML, Material UI, Node.Js, Jest, Playwright, Cypress, Testing
+Library, Python, Django, Svelte, Next.js, Java, Ruby, Rails, PHP, Shell, Powershell, ZSH, MySQL, PostgreSQL, Mongo, GraphQL, Docker, Kubernetes
 
-**Tools:** Photoshop, Illustrator, Figma, Omni-Graffle, Draw.Io, VS
+**Tools:** Photoshop, Illustrator, Figma, Draw.Io, VS
 Code, JetBrains WebStorm, Docker Desktop, Github Codespaces, K9s, Github
 Actions, Copilot, Chat GPT, Claude, Jira, Confluence, Asana, iTerm, Warp,
 Wordpress,Mac OSX, Unix, GCP, AWS, Microsoft Azure, Github Enterprise,

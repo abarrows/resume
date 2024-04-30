@@ -1,10 +1,3 @@
-
----
-
-layout: default
-geometry: margin=1in
----
-
 # Andrew Barrows
 
 ##### [ 913 548 6290 ] [Olathe, KS] \[[me@andybarrows.com](mailto:me@andybarrows.com)\] \[[andybarrows.com](https://www.andybarrows.com)\] \[[LinkedIn Profile](https://www.linkedin.com/in/andrewbarrows/)\]
@@ -35,14 +28,18 @@ strategic vision, we will achieve outstanding results together.
   annual revenue streams.
 - Played a key role in company-wide AI adoption. Through extensive training and usage of enterprise level models like GitHub CoPilot, Gemini Pro, and ChatGPT, corporate AI integration guidelines were developed in collaboration with technical leadership.
 - Reduced hosting cost by 60% by facilitating a 5-year cloud migration plan to Azure. Transitioned 20+ digital products and 40+ web services to boost operational efficiency, scalability, and security within our digital ecosystem while coordinating front-end efforts with DevOps.
-- Reduced time to setup new web applications by over 45% and significantly enhanced developer experience by employing a ‘Principle’ web application template, front-end had a centralized blueprint for our evolving standards, tooling, and common components. As new patterns emerged, all connected projects were automatically synced with a pull request.
+- Reduced time to setup new web applications by over 45% and significantly enhanced developer experience by employing a 'Principle' web application template, front-end had a centralized blueprint for our evolving standards, tooling, and common components. As new patterns emerged, all connected projects were automatically synced with a pull request.
 - Revolutionized the front-end development workflow by automating non-coding activities throughout a ticket's
-  lifecycle. **This breakthrough reduced admin time from over an hour to less than
-  five minutes, all without leaving VS Code.** The workflow was widely acclaimed
+  lifecycle. This breakthrough reduced admin time from over an hour to less than
+  five minutes, all without leaving VS Code. The workflow was widely acclaimed
  as a new benchmark in developer experience and productivity.
 - Proven track record of inspiring others by fostering exceptional growth and development, more front-end engineering job promotions were realized than all other technical teams combined during my tenure as manager.
-- Promoted growth mindset culture throughout technical teams and across the company.Â  Achieved by pioneering a new career growth system of streamlined technical roles and progressive career paths.
-- Reduced onboarding time for new software engineers from 60 days to 14 days by creating an onboarding procedure which included ever evolving automations, dotfile scripts, and tooling.
+- Promoted growth mindset culture throughout technical teams and across the
+  company. Achieved by pioneering a new career growth system of streamlined
+  technical roles and progressive career paths.
+- Streamlined software engineers onboarding from 60 days to 14 days by
+  creating an onboarding procedure  which was adopted across all
+  technical teams.
 - Dramatically improved our engineering hiring process by introducing a Candidate Engagement Matrix, setting a new benchmark in efficient and inclusive hiring practices while evolving from hundreds of interviews and continuously improved through recruiter feedback.
 - Directed alongside 3 other engineering managers during the rapid and successful response to a state-sponsored ransomware attack. Within four days we achieved 100% data recovery without paying a ransom. Maintained service continuity, all SLA commitments, and conducted operating system scans for 150 employees while coordinating efforts with senior leadership, cyber insurance, and FBI.
 - Increased deployment speeds by 22% and exponentially improved code and product quality on our flagship applications while in close collaboration with our DevOps team.

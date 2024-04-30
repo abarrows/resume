@@ -2,9 +2,6 @@ name: Publish Resume Formats
 
 on:
   workflow_dispatch:
-  # push:
-  # paths:
-  #   - './formats/index.md'
   release:
     types: [published]
 

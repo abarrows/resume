@@ -30,10 +30,10 @@ jobs:
           favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=${{env.resume_path}}formats/index.pdf ${{env.resume_path}}index.md
+          args: --output=${{env.resume_path}}formats/index.pdf ${{env.resume_path}}index.md --variable geometry:margin=1in ${{env.resume_path}}index.md
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=${{env.resume_path}}formats/index.docx --reference-doc=${{env.resume_path}}template.docx ${{env.resume_path}}index.md
+          args: --output=${{env.resume_path}}formats/index.docx --reference-doc=${{env.resume_path}}template.docx ${{env.resume_path}}index.md --variable geometry:margin=1in ${{env.resume_path}}index.md
 
       - name: 'Generate JSON version of Resume'
         run: |

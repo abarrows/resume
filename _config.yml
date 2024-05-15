@@ -1,6 +1,7 @@
 remote_theme: 'poole/hyde'
 title: Engineering Manager
-base_url: /
+base_url: '/resume/'
+
 author:
   name: 'Andrew Barrows'
   url: https://andybarrows.com

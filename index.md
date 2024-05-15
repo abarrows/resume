@@ -12,7 +12,7 @@ relentless pursuit of offering value to my leadership and team, I have evolved
 remarkable approaches to hire, retain, and transform individual engineering
 strengths into superpowers. This resume captures just a fraction of my extensive
 experience and innovation. I am committed to offer my wealth of experience and
-skills to support the mission at [COMPANY_NAME]. [MY_LEADERSHIP], under your
+skills to support the mission. Under your
 strategic vision, we will achieve outstanding results together.
 
 ## Work Experience
@@ -26,14 +26,14 @@ strategic vision, we will achieve outstanding results together.
   monthly, including comics, games, and puzzles for prestigious clients like
   Apple, Amazon, and USA Today directly contributing to multi-million dollar
   annual revenue streams.
-- Played a key role in company-wide AI adoption. Through extensive training and usage of enterprise level models like GitHub CoPilot, Gemini Pro, and ChatGPT, corporate AI integration guidelines were developed in collaboration with technical leadership.
+- Championed company-wide AI adoption by showcasing enterprise model like GitHub CoPilot, Gemini Pro, and ChatGPT to technical leadership, aiding in the formation of corporate AI integration guidelines.
 - Reduced hosting cost by 60% by facilitating a 5-year cloud migration plan to Azure. Transitioned 20+ digital products and 40+ web services to boost operational efficiency, scalability, and security within our digital ecosystem while coordinating front-end efforts with DevOps.
 - Reduced time to setup new web applications by over 45% and significantly enhanced developer experience by employing a 'Principle' web application template, front-end had a centralized blueprint for our evolving standards, tooling, and common components. As new patterns emerged, all connected projects were automatically synced with a pull request.
 - Revolutionized the front-end development workflow by automating non-coding activities throughout a ticket's
   lifecycle. This breakthrough reduced admin time from over an hour to less than
   five minutes, all without leaving VS Code. The workflow was widely acclaimed
  as a new benchmark in developer experience and productivity.
-- Proven track record of inspiring others by fostering exceptional growth and development, more front-end engineering job promotions were realized than all other technical teams combined during my tenure as manager.
+- Proven track record of fostering exceptional growth and performance resulting in more front-end engineering job promotions than all other technical teams combined during my tenure as manager.
 - Promoted growth mindset culture throughout technical teams and across the
   company. Achieved by pioneering a new career growth system of streamlined
   technical roles and progressive career paths.

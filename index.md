@@ -1,119 +1,69 @@
-# Andrew Barrows
+# Andy Barrows
 
-##### [ 913 548 6290 ] [Olathe, KS] \[[me@andybarrows.com](mailto:me@andybarrows.com)\] \[[andybarrows.com](https://www.andybarrows.com)\] \[[LinkedIn Profile](https://www.linkedin.com/in/andrewbarrows/)\]
+Olathe, Kansas 66062 • 913 548 6290 • [me@andybarrows.com](mailto:me@andybarrows.com) • [linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows)
 
-## Objective
+## Software Engineering Manager
 
-Extensive experience developing across a diverse portfolio of digital products, services, and architecture. I have evolved into a respected leader
-renowned for fostering award-winning teams that deliver excellence.  While under
-my leadership, the software engineers I served, consistently reached new
-benchmarks in engineering performance, innovation, and efficiency.  Through the
-relentless pursuit of offering value to my leadership and team, I have evolved
-remarkable approaches to hire, retain, and transform individual engineering
-strengths into superpowers. This resume captures just a fraction of my extensive
-experience and innovation. I am committed to offer my wealth of experience and
-skills to support the mission. Under your
-strategic vision, we will achieve outstanding results together.
+Accomplished Software Engineering Manager renowned for growing award-winning teams. 17 years of full-stack expertise with over 26,000 contributions while transforming the world's largest syndicate. A servant leader with a proven track record guiding teams to excellence, winning a Webby Award for TheFarside within 3 years of leadership. Fostering a unique "Product-First" culture that celebrates shared efficiencies and team performance, elevating ad revenue growth by 35% across 40 digital products.
+
+## Skills
+
+**Languages & Core Proficiencies:** ASP.NET, Back-end Engineering, Front-end Engineering, Full-Stack Development, GO, HTML5, Java, JavaScript, Node.js, PHP, Prompt Engineering, Python, RESTful WebServices, Ruby on Rails, SASS, SCSS, TypeScript
+**Frameworks & Platforms:** A/B Testing, AWS, CCPA, Drupal, GCP, GDPR, Google Analytics, GTM, Jest, Material UI, Microsoft Azure, Next.js, OpenAPI Specification (OAS), Playwright, React.js, Single Page Applications, Stripe, Structured Data (JSON-LD), Tailwind CSS, Wordpress (WP)
+**Tools:** ChatGPT, Claude, Figma, Google Gemini, Illustrator, Microsoft & Github CoPilot, Photoshop, Sketch, VS Code, Warp
+**Specialized Skills:** Agile Methodologies, Artificial Intelligence (AI), Automated Software Testing, Content Management Systems (CMS), Continuous Integration and Continuous Delivery (CI/CD), CyberSecurity, Data Science, Developer Experience, DevOps, Engineering Management, Enterprise Architecture, High Performance Web Sites, Information Architecture, Leading Development Teams, Microservices, Online Advertising, Programmatic Advertising, Project Management, QA Automation, Release Management, Search Engine Optimization (SEO), Technical Architecture, User Experience Design (UX/UXD), User Privacy Compliance, Web Accessibility, Web Application Security, Web Design, Web Performance
 
 ## Work Experience
 
-### Andrews McMeel Universal - Kansas City, Missouri
+### Andrews McMeel Universal | Kansas City, MO | 03/2010 - 04/2024
 
-#### Engineering Manager (07/2019 - 04/2024)
+#### Software Engineering Manager | 08/2019 - 04/2024
 
-- Led front-end engineering architecture and development across 15 key websites and services, culminating in a peak of 8.6 million monthly user impressions while managing software engineers across three product teams.
-- Supervised front-end operations delivering over 16,000+ digital assets
-  monthly, including comics, games, and puzzles for prestigious clients like
-  Apple, Amazon, and USA Today directly contributing to multi-million dollar
-  annual revenue streams.
-- Championed company-wide AI adoption by showcasing enterprise model like GitHub CoPilot, Gemini Pro, and ChatGPT to technical leadership, aiding in the formation of corporate AI integration guidelines.
-- Reduced hosting cost by 60% by facilitating a 5-year cloud migration plan to Azure. Transitioned 20+ digital products and 40+ web services to boost operational efficiency, scalability, and security within our digital ecosystem while coordinating front-end efforts with DevOps.
-- Reduced time to setup new web applications by over 45% and significantly enhanced developer experience by employing a 'Principle' web application template, front-end had a centralized blueprint for our evolving standards, tooling, and common components. As new patterns emerged, all connected projects were automatically synced with a pull request.
-- Revolutionized the front-end development workflow by automating non-coding activities throughout a ticket's
-  lifecycle. This breakthrough reduced admin time from over an hour to less than
-  five minutes, all without leaving VS Code. The workflow was widely acclaimed
- as a new benchmark in developer experience and productivity.
-- Proven track record of fostering exceptional growth and performance resulting in more front-end engineering job promotions than all other technical teams combined during my tenure as manager.
-- Promoted growth mindset culture throughout technical teams and across the
-  company. Achieved by pioneering a new career growth system of streamlined
-  technical roles and progressive career paths.
-- Streamlined software engineers onboarding from 60 days to 14 days by
-  creating an onboarding procedure  which was adopted across all
-  technical teams.
-- Dramatically improved our engineering hiring process by introducing a Candidate Engagement Matrix, setting a new benchmark in efficient and inclusive hiring practices while evolving from hundreds of interviews and continuously improved through recruiter feedback.
-- Directed alongside 3 other engineering managers during the rapid and successful response to a state-sponsored ransomware attack. Within four days we achieved 100% data recovery without paying a ransom. Maintained service continuity, all SLA commitments, and conducted operating system scans for 150 employees while coordinating efforts with senior leadership, cyber insurance, and FBI.
-- Increased deployment speeds by 22% and exponentially improved code and product quality on our flagship applications while in close collaboration with our DevOps team.
-- Spearheaded reduction in annual budget by nearly 50%. Adopted zero-based budget strategy to eliminate unnecessary expenses and strategically shifted to more cost-effective platforms like Atlassian, Github, and Browserstack while negotiating with vendors.
-- Planned and supervised a successful 3 month enterprise migration from Bitbucket to Github.com by grooming our 400+
-  repositories, we succeeded in moving 250 of our active repositories while coordinating with lead engineers from each technical team.
+- Led application architecture and development across 40 high-performing websites, increasing total users to 8.6 million monthly users; built with React, Next.js on Docker/Kubernetes in Azure.
+- Increased monthly user impressions to 4.5 million through delivery architecture innovation still in operation. Built in Ruby on Rails, GO webservices, and PostgreSQL, the service quickly attracted contracts from 150+ sites, including US top 40 ranked sites like Yahoo & NY Times.
+- Championed integration of AI across the AMU Enterprise, institutionalizing an AI committee and usage guidelines by showcasing enterprise models such as CoPilot, Gemini Pro, and ChatGPT; helped leadership understand the potential risks and capabilities on business objectives and creators.
+- Pioneered a widely acclaimed front-end developer experience that reduced non-coding activities from 65 minutes to less than 5 minutes per ticket without engineers having to leave their development environment; built with AI, Github Actions, Docker, and continuous feedback from the team.
+- Served as a vanguard for fast-paced professional growth among engineers; achieving 6 job promotions in 5 years as manager, 50% more than all other engineering teams combined.
 
-#### Lead Front-End Web Developer (01/2017 - 06/2019)
+#### Lead Front-End Engineer | 01/2017 - 07/2019
 
-- Led our front-end engineering team to win a Webby Award for thefarside.com.
-- Served as key liaison in an independent company-wide security audit, achieving low risk assessment while transparently supporting consultants and senior leadership.
-- Led a User Privacy Compliance campaign on a portfolio of 40 digital products resulting in 100% privacy compliance with CCPA, GDPR, and COPA regulations.
-- Planned and succeeded in transforming the department's front-end tech stack from an outdated Ruby on Rails
-  ecosystem full of high risk vulnerabilities to a modern, scalable architecture with React, Next.js, and other
-  competitive technologies.
-- Initiated and led the adoption of Atlassian suite (Jira, Confluence, Bitbucket) on an enterprise level, streamlining task management by building highly customized workflows for each team. This effort drove huge improvements in efficiency and prioritization.
-- Achieved enhanced security and efficiency by orchestrating the migration of over 400 repositories to GitHub while fostering collaboration of best practices amongst technical leads.
-- Reduced maintenance and technical debt effort by 70% across consumer facing products by encouraging peer technical leads to adopt competitive maintenance strategies and tools.
+- Evangelized growth-minded, skills-based culture for engineering teams and across the company within 2 years by establishing a "progression bands" system that streamlined career growth and advanced skills for technical roles.
+- Increased speed to market by 66% within 6 months by innovating a blueprint codebase system that stored all team-approved principle React components, Next.js tooling, and API patterns while automatically syncing emerging team changes with projects connected to the blueprint.
+- Led our front-end engineering team through development on thefarside.com, which won a Webby Award in 2020; built in Ruby on Rails, Redux, Webpack with microservices and PostgreSQL.
+- In 5 months, increased deployment speeds by 22% and vastly improved code quality in flagship products by orchestrating a 12-point checklist on CI/CD pipeline while coaching the DevOps team.
+- Reduced enterprise hosting cost by 60% during a 5-year cloud migration plan to Azure. Transitioned 40 digital products and 80 services from Ruby on Rails, Python, GO to a modern architecture by migrating UIs to React.js, Next.js, and RESTful APIs while supporting the DevOps team.
+- Increased security, efficiency, and broadened capabilities within 2 months by automating the migration of the organization's 400 repositories from Bitbucket to GitHub while prototyping a Node.js utility with lead engineers.
+- Spearheaded reduction in annual budget by nearly 50%. Adopted a zero-based strategy to eliminate unnecessary expenses and strategically shifted to more cost-effective platforms like Atlassian, Github, and Browserstack while negotiating with partners.
+- Reduced maintenance effort by 70% across consumer brand products within 12 months by implementing refactor strategies and AI tools capable of automating maintenance upgrades while encouraging peer technical leads to research similar approaches for flagship products.
 
-#### Web Designer (03/2011 - 01/2017)
+#### Web Developer | 03/2011 - 12/2017
 
-- Architected and led development of syndication service responsible for generating 4.5 million monthly user impressions for enterprise level website clients like USAToday.com, WashingtonPost.com and New York Times.
-- Researched business reviews, designed, and coded most successful digital retention campaign in AMU's history with little assistance but a lot of creativity; 19,000 new premium user with a conversion rate of 7.2%.
-- Directly contributed to new benchmark of reaching nearly one billion page views while playing key role in decision making for GoComics.com and related products.
-- Led and facilitated over 6k successful production releases while personally totaling 26,000 contributions supporting our enterprise of products and services.
+- Increased paid user subscriptions by 19,000, over triple the projected goal. Researched, designed UX, and delivered in 5 months the most successful digital retention campaign in AMU’s history.
+- Increased flagship GoComics.com 200% within 14 months and achieved a rank on US' Top 500 websites by executing a long-term strategic roadmap improving site capabilities and user experience.
 
-#### Flash Developer (03/2010 - 02/2012)
+#### Game Developer | 03/2010 - 03/2011
 
-- Proactively dro our transition from Flash to HTML5 years ahead of browsers dropping support. After researching market data, proposed a strategy and
-  guidelines for external game developers to rewrite core game titles like USA
-  Today Crossword, Daily Sudoku, and AARP Crossword.
-- Reduced ongoing game maintenance by 90% by transforming 80+ games into
-  maintainable engines capable of scaling for client branded versions.
-- Eradicated a 12-month backlog within the first 6 months by establishing robust
-  QA testing plans and applying defensive coding best practices.
+- Reduced maintenance by 90% by converting 80 games into scalable engines with client versions.
 
-### Adamson USA - Lee Summit, Missouri
+### Adamson USA | Lee Summit, MO | 02/2009 - 02/2010
 
-#### Web Integrator (01/2009 - 02/2010)
+#### Web Integrator | 02/2009 - 02/2010
 
-- Secured and retained major clients commitments by delivering digital marketing products to iconic brands like Kawasaki, ExxonMobil, Earth's Best, some boasting six-figure budgets.
-- Extending company and client digital capabilities by completing several high-value CMS driven site rebuilds including the company's corporate website while serving our team as the primary web developer.
-- Led successful multi-channel digital marketing campaigns, enhancing user engagement and click-through rates by implementing data-driven strategies across email, web, and video promotions, in collaboration with a dedicated team of developers, designers, and clients.
+- Secured and retained major client commitments by delivering digital marketing products to iconic brands like Kawasaki, ExxonMobil, Earth's Best, some boasting six-figure budgets.
 
-## Technical Expertise
+## Volunteering & Leadership
 
-### Proficiencies
+### United States Military
 
-HTML5, CSS, SCSS, JavaScript, React, TypeScript, Markdown, XML, UML, YAML,
-Material UI, Node.Js, Jest, Playwright, Cypress, Testing, Library, Python,
-Django, Svelte, Next.js, Java, Ruby, Rails, PHP, Shell, Powershell, ZSH, MySQL,
-PostgreSQL, Mongo, GraphQL, Docker, Kubernetes
-
-### Tools Photoshop, Illustrator, Figma, Draw.Io, VS
-
-Code, JetBrains WebStorm, Docker Desktop, Github Codespaces, K9s, Github
-Actions, Copilot, Chat GPT, Claude, Jira, Confluence, Asana, iTerm, Warp,
-Wordpress,Mac OSX, Unix, GCP, AWS, Microsoft Azure, Github Enterprise,
-Sentry Error Reporting, Zendesk Enterprise
-
-### Advanced Skills
-
-Scrum and Kanban methodologies, Accessibility, Application Security, Artificial
-Intelligence, Automated Testing And QA, Back-End Web Development, Client-side
-Debugging, Cloud Hosting and Operations, CMS Systems, Continuous Integration,
-Build Process and Delivery, Data Science And Analytics, Developer Experience,
-Development Operations, Digital Marketing, Ecommerce Systems, Email Campaigns &
-Templates, Fullstack Development, Front-End Web Development, Information
-Architecture, Online Compliance, Programmatic Advertising, Project Management, SEO, Software Architecture, Team Environment and Tooling, Technical
-Architecture, Technical Management, Third Party Advertising, User Behavior Analytics, User Experience Design, Web
-Performance
+**Army Reserves - 37F Psychological Operations Fort Bragg, NC**
+Expert in Behavioral Analysis and target audience segmentation through rigorous special operations training in psychological campaigns and influence operations force-multiplying success for coalition.
 
 ## Education
 
-**Centriq Information Technology Training** Certified Internet Webmaster - Completed 2006
+### Centriq Foss IT Institution
 
-**United States Army** Special Operations Command Schooling for Psychological Warfare - Completed 2003
+A+ In IC3 Certifications, Certified Internet Web Developer
+
+### Johnson County Community College
+
+Associates

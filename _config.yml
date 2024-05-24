@@ -23,6 +23,10 @@ tagline: 'Software Engineering Manager'
 description: 'This repo serves as a single source of truth for my resume and related information.'
 url: https://github.com/abarrows/resume
 
+defaults:
+  - scope:
+      path: 'formats'
+
 paginate: 5
 
 # Custom vars

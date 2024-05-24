@@ -1,9 +1,10 @@
 name: Publish Resume Formats
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
-  release:
-    types: [published]
 
 env:
   resume_path: './'

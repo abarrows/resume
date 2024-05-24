@@ -1,3 +1,3 @@
-- Advocated for the department's adoption of security policy by proposing access
-  control implementation using 1Password enterprise, guideline improved
-  efficiency using shared vaults and reduced attack surface for 50+ employees.
+- institutionalized "Security-First" best-practices and significantly reduced
+  attack surface for 45 employees by onboarding 1Password Enterprise in 9
+  months.

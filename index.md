@@ -1,6 +1,6 @@
 # Andy Barrows
 
-Olathe, Kansas 66062 • 913 548 6290 • [me@andybarrows.com](mailto:me@andybarrows.com) • [linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows)
+Olathe, Kansas 66062 • 913 548 6290 • [me@andybarrows.com](mailto:me@andybarrows.com) • [AndyBarrows.com](https://andybarrows.com) • [linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows)
 
 ## Software Engineering Manager
 
@@ -8,9 +8,13 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 
 ## Skills
 
-**Languages & Core Proficiencies:** ASP.NET, Back-end Engineering, Front-end Engineering, Full-Stack Development, GO, HTML5, Java, JavaScript, Node.js, PHP, Prompt Engineering, Python, RESTful WebServices, Ruby on Rails, SASS, SCSS, TypeScript
+**Languages & Core Proficiencies:** ASP.NET, Back-end Engineering, Front-end Engineering, Full-Stack Development, GO, HTML5, Java, JavaScript, Node.js, PHP,
+Prompt Engineering, Python, RESTful WebServices, Ruby on Rails, SASS, SCSS, TypeScript
+
 **Frameworks & Platforms:** A/B Testing, AWS, CCPA, Drupal, GCP, GDPR, Google Analytics, GTM, Jest, Material UI, Microsoft Azure, Next.js, OpenAPI Specification (OAS), Playwright, React.js, Single Page Applications, Stripe, Structured Data (JSON-LD), Tailwind CSS, Wordpress (WP)
+
 **Tools:** ChatGPT, Claude, Figma, Google Gemini, Illustrator, Microsoft & Github CoPilot, Photoshop, Sketch, VS Code, Warp
+
 **Specialized Skills:** Agile Methodologies, Artificial Intelligence (AI), Automated Software Testing, Content Management Systems (CMS), Continuous Integration and Continuous Delivery (CI/CD), CyberSecurity, Data Science, Developer Experience, DevOps, Engineering Management, Enterprise Architecture, High Performance Web Sites, Information Architecture, Leading Development Teams, Microservices, Online Advertising, Programmatic Advertising, Project Management, QA Automation, Release Management, Search Engine Optimization (SEO), Technical Architecture, User Experience Design (UX/UXD), User Privacy Compliance, Web Accessibility, Web Application Security, Web Design, Web Performance
 
 ## Work Experience

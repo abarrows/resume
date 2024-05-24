@@ -19,12 +19,9 @@
         >About</a
       >
 
-      {% assign format_files = site.static_files %} {% for format in
-      format_files %}
       <a class="sidebar-nav-item" href="{{ format.path }}"
         >Download Resume (PDF)</a
       >
-      {% endfor %}
 
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/index.docx"
         >Download Resume (Word Document)</a

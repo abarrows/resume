@@ -1,1 +1,0 @@
-- Institutionalized a data-driven culture by implementing Google Analytics across 70 digital applications and standardizing information architecture. Within 2 years, trained Finance, Digital Products, and Marketing departments, leading to the formation of a formal Data Analytics Team.

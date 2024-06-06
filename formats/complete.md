@@ -1,6 +1,6 @@
 # Andy Barrows
 
-Olathe, KS 66062 • 913 548 6290 • [me@andybarrows.com](mailto:me@andybarrows.com) • [linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows) • [AndyBarrows.com](https://andybarrows.com)
+Olathe, KS 66062 • 913 548 6290 • [me@andybarrows.com](me@andybarrows.com) • [linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows) • [AndyBarrows.com](https://andybarrows.com)
 
 ## Software Engineering Manager
 

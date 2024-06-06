@@ -11,7 +11,7 @@ env:
   GITHUB_TOKEN: ${{ github.token }}
 
 jobs:
-  publish-formats:
+  generate-formats:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -34,13 +34,21 @@ jobs:
           favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=${{env.resume_path}}formats/${{ matrix.file }}.pdf --variable geometry:margin=.75in ${{env.resume_path}}${{ matrix.file }}.md
+          args: --output=${{env.resume_path}}formats/${{ matrix.file }}.pdf ${{env.resume_path}}${{ matrix.file }}.md --variable geometry:margin=.75in ${{env.resume_path}}${{ matrix.file }}.md
       - uses: docker://pandoc/latex:2.9
         with:
           args: --output=${{env.resume_path}}formats/${{ matrix.file }}.docx --reference-doc=${{env.resume_path}}template.docx --variable geometry:margin=.75in ${{env.resume_path}}${{ matrix.file }}.md
       - name: 'Generate JSON version of Resume'
         run: |
           python -c "import json; md = open('${{env.resume_path}}${{ matrix.file }}.md').read(); json.dump({'content': md}, open('${{env.resume_path}}formats/${{ matrix.file }}.json', 'w'))"
+  commit-formats:
+    needs: generate-formats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
       - name: 'Commit Resume in Various Formats'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

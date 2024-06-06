@@ -1,6 +1,6 @@
 # Andy Barrows
 
-Olathe, KS 66062 \| 913 548 6290 \| [me@andybarrows.com](mailto:me@andybarrows.com) \| [linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows) \| [AndyBarrows.com](https://andybarrows.com)
+Olathe, KS 66062 • 913 548 6290 • [me@andybarrows.com](mailto:me@andybarrows.com) • [linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows) • [AndyBarrows.com](https://andybarrows.com)
 
 ## Software Engineering Manager
 
@@ -18,7 +18,7 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 
 ## Work Experience
 
-### Andrews McMeel Universal | Kansas City, MO | 03/2010 - 04/2024
+### Andrews McMeel Universal | Kansas City, MO
 
 #### Software Engineering Manager | 08/2019 - 04/2024
 
@@ -37,6 +37,8 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 - **Streamlined AA compliance for 40 enterprise web applications, preventing legal risks**. Created WCAG training and roadmap while coaching a junior engineer to guide 8 engineers to advanced proficiencies in web accessibility while integrating Accessible-First standards into the department.
 - **Institutionalized company-wide hybrid work schedule in 3 years following department adoption**.
 
+### Andrews McMeel Universal | Kansas City, MO
+
 #### Lead Front-End Engineer | 01/2017 - 07/2019
 
 - **Achieved AA compliance for several flagship products at scale, preventing legal risks**. Orchestrated WCAG training while empowering junior engineer specializing in accessibility to lead front-end engineers during coursework. Resulted in 100% course completion and accessibility streamlined into workflow process within 4 months.
@@ -52,6 +54,8 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 - **In 18 months, boosted ad-bearing sites revenue by 34% and peaking to 7 million**. By engineering prebid capabilities using JavaScript, prebid, GTM, and AWS ad servers while working with AdOps and over 20 ad partners.
 - **Institutionalized "Security-First" best practices and significantly reduced attack surface for 45 employees** by onboarding 1Password Enterprise in 9 months.
 
+### Andrews McMeel Universal | Kansas City, MO
+
 #### Web Developer | 03/2011 - 12/2017
 
 - **Increased monthly user impressions to 4.5 million through delivery architecture innovation still in operation**. The service quickly attracted contracts from 150+ sites, including US top 40 ranked sites like Yahoo & NY Times.
@@ -60,6 +64,8 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 - **Led and facilitated over 6k successful production releases while personally totaling 26,000 contributions** supporting our enterprise of products and services.
 - Served a crucial role in the education and facilitating the adoption of advanced front-end strategies, thereby enhancing our digital market success. This included implementing responsive design, A/B testing, SEO, style guides, web-accessibility, deployment checklists, web performance audits among other leading industry standards in our development process.
 - **Evangelized a data-driven culture by implementing Google Analytics across 70 digital applications while standardizing information architecture**. Trained Finance, Digital Products, and Marketing departments, leading to the formation of a formal Data Analytics Team within 2 years.
+
+### Andrews McMeel Universal | Kansas City, MO
 
 #### Game Developer | 03/2010 - 03/2011
 

@@ -107,6 +107,7 @@ body {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  font-size: 1.6rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {

@@ -113,7 +113,7 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 - Improved both application security and user experience by developing SMS/authentication capabilities to download custom delivered games while collaborating with back-end teams.
 - Assisted in our 75% reduction in downtime during deployments by orchestrating deployment checklist tasks across multiple mobile networks while remotely.
 
-## Volunteering & Leadership
+## Volunteer Experience
 
 ### 37F Psychological Operations | 03/2003 - 03/2009
 

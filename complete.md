@@ -26,8 +26,8 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 - **Increased monthly user impressions to 4.5 million through delivery architecture innovation**, quickly attracting contracts from 150+ sites, including US top 40 ranked sites like Yahoo & NY Times.
 - **Championed integration of AI across the AMU Enterprise**, institutionalizing an AI committee and usage guidelines by showcasing enterprise models such as CoPilot, Gemini Pro, and ChatGPT; helped leadership understand the potential risks and capabilities on business objectives and creators.
 - Pioneered a widely acclaimed front-end developer experience that **reduced non-coding activities from 65 minutes to less than 5 minutes per ticket without engineers having to leave their development environment**; built with AI, Github Actions, Docker, and continuous feedback from the team.
-- Served as a vanguard for fast-paced professional growth among engineers;  **achieving 6 job promotions under my leadership in 5 years, more than all other engineering teams combined.**
-- **Evangelized growth-minded, skills-based culture for engineering teams and across company within 2 years**; by establishing a "progression bands" system that streamlined career growth and advanced skills for technical roles.
+- Served as a vanguard for fast-paced professional growth among engineers; **achieving 6 job promotions under my leadership in 5 years, more than all other engineering teams combined.**
+- **Evangelized growth-minded, skills-based culture for engineering teams and across the company within 2 years**; by establishing a "progression bands" system that streamlined career growth and advanced skills for technical roles.
 - **Increased speed to market by 66% within 6 months by innovating a blueprint codebase system** that stored all team-approved principle React components, Next.js tooling, and API patterns while automatically syncing emerging team changes with projects connected to the blueprint.
 - **Achieved higher throughput and reduced visual regression by adopting design system packages in Figma** and strengthening partnerships between Software Engineering and User Experience Design (UXD) teams while scaling out enterprise design themes for flagship products.
 - **Increased efficiency of onboarding software engineers by 77% through reducing the onboarding procedure from 60 days to 14 days** and institutionalized throughout technical teams.
@@ -44,7 +44,7 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 - **Achieved AA compliance for several flagship products at scale, preventing legal risks**. Orchestrated WCAG training while empowering junior engineer specializing in accessibility to lead front-end engineers during coursework. Resulted in 100% course completion and accessibility streamlined into workflow process within 4 months.
 - **Led our front-end engineering team through development on thefarside.com which won a Webby Award in 2020**; built in Ruby on Rails, Redux, Webpack with microservices and PostgreSQL.
 - **In 5 months, increased deployment speeds by 22% and vastly improved code quality in flagship products** by orchestrating a 12-point checklist on CI/CD pipeline while coaching DevOps team.
-- **Reduced enterprise hosting cost by 60% during a 5-year cloud migration plan to Azure**. Transitioned 40 digital products and 80 services from Ruby on Rails, Python, GO to a modern architecture by migrating UIs to React.js, Next.js and RESTful APIs while supporting DevOps team.
+- **Reduced enterprise hosting cost by 60% by defining and executing a 5-year cloud migration plan** to Azure. Transitioned 40 digital products and 80 services from Ruby on Rails, Python, GO to a modern architecture by migrating UIs to React.js, Next.js and RESTful APIs while supporting DevOps team.
 - In 3 months, reduced infrastructure attack surface to a minimal rating during an independent cybersecurity audit by a leading consulting firm. Fostered transparency and delegated security tasks while serving as key liaison.
 - **Led a User Privacy Compliance campaign across 16 product roadmaps resulting in 100% CCPA, GDPR, and COPA regulations within 9 months** while training engineers "Privacy First" best practices and ongoing procedures.
 - Increased security, efficiency, and broadened capabilities within 2 months by **automating the migration of the organization's 400 repositories** from Bitbucket to GitHub while prototyping a Node.js utility with lead engineers.
@@ -80,7 +80,7 @@ Accomplished Software Engineering Manager renowned for growing award-winning tea
 - Engineered front-end and infrastructure solutions with ASP.NET and DevOps teams, focusing on domain, DNS, and Microsoft Exchange optimizations.
 - Fostered key local partnerships and managed lead generation and marketing for major business conferences, driving growth and engagement.
 
-### Founder 11/2006 - 03/2010
+### Founder | 11/2006 - 03/2010
 
 #### Binary Catalyst | Overland Park, MO
 
@@ -128,13 +128,13 @@ Expert in Behavioral Analysis and Target Audience Segmentation by utilized advan
 
 ## Certifications
 
-### A+, Certified Internet Web Developer (CIWD) | 03/2007 - 12/2007
+### A+, Certified Internet Web Developer (CIWD) | 12/2007
 
 #### Centriq Foss | Leawood, KS
 
 ## Awards & Scholarships
 
-### Webby Award for <Https://www.thefarside.com> | 12/2019 - 01/2020
+### Webby Award for <Https://www.thefarside.com> | 01/2020
 
 #### The Webby Awards | International
 

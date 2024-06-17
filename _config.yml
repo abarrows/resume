@@ -1,5 +1,5 @@
 remote_theme: 'poole/hyde'
-title: Engineering Manager
+title: Software Engineering Manager
 base_url: '/resume/'
 
 author:
@@ -22,6 +22,10 @@ permalink: pretty
 tagline: 'Software Engineering Manager'
 description: 'This repo serves as a single source of truth for my resume and related information.'
 url: https://github.com/abarrows/resume
+
+defaults:
+  - scope:
+      path: 'formats'
 
 paginate: 5
 

@@ -12,29 +12,53 @@
         href="{{ site.baseurl }}"
         >Home</a
       >
-
       <a
         class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
-        href="/about"
-        >Home</a
+        href="{{ site.baseurl }}/about"
+        >About</a
       >
-
-      <a class="sidebar-nav-item" href="/formats/index.pdf"
+      <a class="sidebar-nav-item" href="https://github.com/abarrows"
+        >GitHub project</a
+      >
+      <h5>Default</h5>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/index.pdf"
         >Download Resume (PDF)</a
       >
-      <a class="sidebar-nav-item" href="/formats/index.docx"
+
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/index.docx"
         >Download Resume (Word Document)</a
       >
-      <a class="sidebar-nav-item" href="/formats/index.html"
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/index.html"
         >Download Resume (HTML)</a
       >
-      <a class="sidebar-nav-item" href="/formats/index.json"
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/index.json"
         >Download Resume (JSON)</a
       >
-      <a class="sidebar-nav-item" href="/formats/index.md"
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/index.md"
         >Download Resume (Markdown)</a
       >
-      <a class="sidebar-nav-item" href="">GitHub project</a>
+      <h5>All Achievements and Skills</h5>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/complete.pdf"
+        >Download Complete (PDF)</a
+      >
+      <a
+        class="sidebar-nav-item"
+        href="{{ site.baseurl }}/formats/complete.docx"
+        >Download Complete (Word Document)</a
+      >
+      <a
+        class="sidebar-nav-item"
+        href="{{ site.baseurl }}/formats/complete.html"
+        >Download Complete (HTML)</a
+      >
+      <a
+        class="sidebar-nav-item"
+        href="{{ site.baseurl }}/formats/complete.json"
+        >Download Complete (JSON)</a
+      >
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/formats/complete.md"
+        >Download Complete (Markdown)</a
+      >
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
     <section>

@@ -18,14 +18,14 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 
 ## Work Experience
 
-### Andrews McMeel Universal • Kansas City, MO • 03/2010 - 04/2024
+### Manager of Software Engineering | August 2019 - April 2024
 
-#### Software Engineering Manager • 08/2019 - 04/2024
+#### Andrews McMeel Universal | Kansas City, MO
 
 - Grew and managed a team from the ground up to **11 engineers** embedded within 3 product teams. Hands-on experience and advanced expertise in Ruby on Rails, Python, React.js/Next.js/.NET Core/Node.js CMS, C#, Kubernetes, and cloud providers Azure and AWS.
 - Led software engineering and architecture across 40 high-performing websites, increasing total users to **8.6 million** monthly users; built with React, Next.js on Docker/Kubernetes in Azure.
 - Increased monthly user impressions to **4.5 million** through delivery architecture innovation still in operation. Built in Ruby on Rails, GO webservices, and PostgreSQL, the service quickly attracted contracts from **150+ sites**, to include US top 40 ranked sites like Yahoo & NY Times.
-- Championed AI integration, institutionalizing an **AI committee** and usage guidelines company-wide by showcasing enterprise models such as CoPilot, Gemini Pro, and ChatGPT; helped leadership understand the potential risks and capabilities on the business objectives and creators.
+- **Championed company-wide AI adoption** by showcasing enterprise models like GitHub CoPilot, Gemini Pro, and ChatGPT to technical leadership, aiding in the formation of corporate AI integration guidelines.
 - Established an acclaimed front-end developer experience that **reduced non-coding activities from 65 minutes to less than 5 minutes** per ticket and without engineers having to leave VS Code; built with AI, Github Actions, Docker, and continuous feedback.
 - Vanguard for fast-paced professional growth among software engineers; achieving **6 job promotions in 5 years** as a hands-on manager, more than all other engineering teams combined.
 - Evangelized growth-minded, skills-based culture for engineering teams and across the company within 2 years by establishing a “progression bands” system that streamlined career growth and advanced skills for technical roles.
@@ -39,15 +39,22 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 - **Institutionalized company-wide hybrid work schedule** in 3 years following department adoption.
 - **Improved defects' average Total Resolution time by 51%** in 4 years across 100 applications and 3 million lines of proprietary code by fine-tuning enterprise error reporting SaaS onboarding.
 
-### Lead Front-End Engineer • 01/2017 - 07/2019
+### Lead Front-End Developer | January 2017 - July 2019
 
-- **Achieved AA compliance** for several flagship products at scale, preventing legal risks. Orchestrated WCAG training and coached a junior engineer during mentorship on how to lead a team through coursework. **100%** of the engineering team completed the course and streamlined accessibility into the workflow process within 4 months.
+#### Andrews McMeel Universal | Kansas City, MO
+
 - Led our front-end engineering team through development on [https://www.thefarside.com](https://www.thefarside.com), which **won a Webby Award in 2020**; built in Ruby on Rails, Redux, Webpack with microservices and PostgreSQL.
+- **Achieved AA compliance** for several flagship products at scale, preventing legal risks. Orchestrated WCAG training and coached a junior engineer during mentorship on how to lead a team through coursework. **100%** of the engineering team completed the course and streamlined accessibility into the workflow process within 4 months.
 - In 5 months, **boosted deployment speeds by 22%** and vastly improved code quality in flagship products by orchestrating a 12 point checklist on the CI/CD pipeline while coaching the DevOps team.
-- **Reduced enterprise hosting cost by 60%** during a 5-year cloud adoption plan to Azure. Transitioned 40 digital products and infrastructure from Ruby on Rails, Python, GO to modern web services architecture by migrating UIs to React.js, Next.js frameworks and RESTful APIs while collaborating with software development teams.
+- **Reduced enterprise hosting cost by 60%** during a 5-year cloud migration plan to Azure. Transitioned 40 digital products and 80 services from Ruby on Rails, Python, GO to a modern architecture by migrating UIs to React.js, Next.js and RESTful APIs while supporting DevOps team.
 - In 3 months, reduced infrastructure attack surface to a minimal rating during an independent cybersecurity audit by a leading consulting firm. Fostered transparency and delegated security tasks while serving as a key liaison.
 - Led a User Privacy Compliance campaign across 16 product roadmaps resulting in **100% CCPA, GDPR, and COPA regulations** within 9 months while training engineers "Privacy First" best practices and ongoing procedures.
-- Increased security, efficiency, and broadened capabilities within 2 months by automating the migration of the organization's **400 repositories** from Bitbucket to GitHub while prototyping a Node.js utility with lead engineers.
+- Increased security, efficiency, and broadened capabilities within 2 months by creating a Node.js utility which **automated the migration of the entire organization’s 400 repositories** while coordinating training with 4 peer lead engineers.
+
+### Web Developer | April 2011 - December 2016
+
+#### Universal Uclick | Kansas City, MO
+
 - Spearheaded enterprise adoption of the Atlassian suite within **8 months**. Resulting in streamlined task management by configuring highly customized workflows while continuing to improve based on business needs.
 - Spearheaded reduction in annual budget by **nearly 50%**. Adopted a zero-based strategy to eliminate unnecessary expenses and strategically shifted to more cost-effective platforms like Atlassian, Github, and Browserstack while negotiating with partners.
 - Reduced maintenance effort by **70%** across consumer brand products within 12 months by implementing refactor strategies and AI tools capable of automating maintenance upgrades while encouraging peer technical leads to research similar approaches for flagship products.
@@ -64,7 +71,9 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 - Served a crucial role in educating and facilitating the adoption of advanced front-end strategies, thereby enhancing our digital market success. This included implementing responsive design, A/B testing, SEO, style guides, web-accessibility, deployment checklists, web performance audits among other leading industry standards in our development process.
 - Evangelized a data-driven culture by implementing Google Analytics across **70 digital applications** while standardizing information architecture. Trained Finance, Digital Products, and Marketing departments, leading to a formal Data Analytics Team within 2 years.
 
-### Game Developer • 03/2010 - 03/2011
+### Game Developer | March 2010 - March 2011
+
+#### Universal Uclick | Kansas City, MO
 
 - Motivated leadership to transition from Flash to HTML5 within **24 months**, years ahead of browsers dropping support. After researching industry trends, proposed a strategy and guidelines for staffing game developers to rewrite core game titles like USA Today Crossword, Daily Sudoku, and AARP Crossword.
 - **Reduced maintenance by 90%** by converting 80 games into scalable engines with client versions.
@@ -112,9 +121,9 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 
 ## Volunteering & Leadership
 
-### United States Military • Fort Bragg, NC • 03/2003 - 03/2009
+### United States Army Reserves | March 2003 - March 2009
 
-#### Army Reserves - 37F Psychological Operations
+#### 37F Psychological Operations | Joint Special Operations Command, Fort Bragg, NC
 
 - Expert in Behavioral Analysis and target audience segmentation through rigorous special operations training in psychological campaigns and influence operations force-multiplying success for coalition.
 - Completed rigorous advanced training in Psychological warfare tactics:
@@ -128,7 +137,9 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 
 ## Education
 
-### Centriq Foss IT Institution • 03/2006 - 12/2007
+### A+ In IC3 Certifications, Certified Internet Web Developer | March 2006 - December 2017
+
+#### Centriq Foss IT Institution | Leawood, KS
 
 - Placed in my first web development contract role in the first 60 days after completing certifications by developing a portfolio site that showcased several projects and freelance websites that were designed and coded while working with placement recruiters.
 - Completed the Certified Internet Web Developer track, reached working proficiencies in web layout patterns, web design/UX design, programming, web services, version control, and release management while attending an intense 40 hours a week vocational training schedule.
@@ -136,8 +147,8 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 
 **A+ In IC3 Certifications, Certified Internet Web Developer**
 
-### Johnson County Community College • 01/2002 - 12/2003
+### Johnson County Community College | January 2002 - December 2003
 
 - With one semester left, required to withdraw due to joining the military and beginning US Army basic training.
 
-**Associates (Incomplete due to Military) | JCCC**
+#### Associates (Incomplete due to Military) | Overland Park, KS

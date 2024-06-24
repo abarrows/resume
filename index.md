@@ -33,7 +33,6 @@ Grew and managed a front-end team **from the ground up to 11 engineers**. Main o
 - **Increased speed to market by 66%** within 6 months by innovating a blueprint codebase system that stored all team approved principle React components, Next.js tooling, and bundler strategies while automatically raising code reviews for emerging team changes.
 - Streamlined software engineers onboarding by **77%** through reducing the onboarding procedure from 60 days to 14 days and institutionalized throughout technical teams.
 - Spearheaded enterprise adoption of the Atlassian suite within 8 months, resulting in streamlined task management by configuring highly customized workflows while continuing to improve based on business needs
-- Evangelized growth-minded, skills-based culture for engineering teams and across company within 2 years; by establishing a “progression bands” system which streamlined career growth for technical roles.
 - Managed response to a state-sponsored ransomware attack, achieving **100% data recovery in four days** and refused to pay ransom. By directing collaboration between senior leadership, cyber insurance, company employees, and the FBI, successfully maintained 100% of SLA commitments.
 
 ### Lead Front-End Developer | January 2017 - July 2019
@@ -52,7 +51,6 @@ Grew and managed a front-end team **from the ground up to 11 engineers**. Main o
 #### Universal Uclick | Kansas City, MO
 
 - Spearheaded reduction in annual budget by **nearly 50%**. Adopted a zero-based strategy to eliminate unnecessary expenses and strategically shifted to more cost-effective platforms like Atlassian, Github, and Browserstack while negotiating with partners.
-
 - Reduced maintenance effort by **70%** across consumer brand products within 12 months by implementing refactor strategies and AI tools capable of automating maintenance upgrades while encouraging peer technical leads to research similar approaches for flagship products.
 
 - **Saved millions of dollars in declining B2B revenue with Newspapers clients by originating and developing new delivery architecture** over 20 months. Still in operation after a decade, it quickly attracted renewed contracts for over 150 sites, including many US top 40 ranked sites like Yahoo & NY Times.

@@ -44,7 +44,6 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 #### Andrews McMeel Universal | Kansas City, MO
 
 - Led our front-end engineering team through development on [https://www.thefarside.com](https://www.thefarside.com), which **won a Webby Award in 2020**; built in Ruby on Rails, Redux, Webpack with microservices and PostgreSQL.
-- **Achieved AA compliance** for several flagship products at scale, preventing legal risks. Orchestrated WCAG training and coached a junior engineer during mentorship on how to lead a team through coursework. **100%** of the engineering team completed the course and streamlined accessibility into the workflow process within 4 months.
 - In 5 months, **boosted deployment speeds by 22%** and vastly improved code quality in flagship products by orchestrating a 12 point checklist on the CI/CD pipeline while coaching the DevOps team.
 - **Reduced enterprise hosting cost by 60%** during a 5-year cloud migration plan to Azure. Transitioned 40 digital products and 80 services from Ruby on Rails, Python, GO to a modern architecture by migrating UIs to React.js, Next.js and RESTful APIs while supporting DevOps team.
 - In 3 months, reduced infrastructure attack surface to a minimal rating during an independent cybersecurity audit by a leading consulting firm. Fostered transparency and delegated security tasks while serving as a key liaison.
@@ -62,9 +61,9 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 - In 18 months, boosted ad-bearing sites revenue by **34%** and peaking to **7 million**. By engineering prebid capabilities using JavaScript, prebid, GTM, and AWS ad servers while working with AdOps and over 20 ad partners.
 - Institutionalized "Security-First" best-practices and significantly reduced the attack surface for 45 employees by onboarding 1Password Enterprise in 9 months.
 
-### Web Developer • 03/2011 - 12/2017
+### Web Developer | March 2011 - December 2017
 
-- Increased monthly user impressions to **4.5 million** through delivery architecture innovation still in operation. The service quickly attracted contracts from 150+ sites, to include US top 40 ranked sites like Yahoo & NY Times.
+- **Saved millions of dollars in declining B2B revenue with Newspapers clients by originating and developing new delivery architecture** over 20 months. Still in operation after a decade, it quickly attracted renewed contracts for over 150 sites, including many US top 40 ranked sites like Yahoo & NY Times.
 - Increased paid users subscriptions by **19,000**, over triple the product roadmap's goal. In 5 months, scoped, designed, and coded based on industry trends, the most successful digital retention campaign in UU’s history.
 - Increased organic growth on GoComics.com by **456%** over 10 years and ranking on the US' top 500 sites by driving a long-term Product roadmap of emerging technologies and continuous improvement.
 - Led and facilitated over **6k** successful production releases while personally totaling **26,000 contributions**, supporting our enterprise of products and services.

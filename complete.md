@@ -1,12 +1,10 @@
 # Andy Barrows
 
-## Contact
-
 Olathe, KS 66062 | 913 548 6290 | <me@andybarrows.com> | [https://www.linkedin.com/in/andybarrows](https://www.linkedin.com/in/andybarrows) | [https://www.andybarrows.com](https://www.andybarrows.com)
 
 ## Software Engineering Manager
 
-Webby Award-Winning Engineering Manager with 17 years and 26k contributions of honed ability. Proven track record as a servant leader guiding diverse teams to excellence. Achieved **8.6 million** monthly users across 40 web brands. Set records in team performance, boosting flagship web and ecommerce brand traffic by **456%**. Offers a unique "Product-First" culture acclaimed for its workflow efficiencies, communication skills, and AI integrations that raise the bar on company success.
+Webby Award-Winning Engineering Manager with 17 years and 26k contributions of honed software engineering ability. Played a leading role in growing an enterprise of 40 comic, games, and article web applications to 8.6 million monthly users at the world's largest syndicate. Proven servant leadership with a unique “Product-First” culture acclaimed for innovative workflow efficiencies and championing AI integrations that force-multiplies company success.
 
 ## Skills
 
@@ -142,4 +140,4 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 
 - With one semester left, required to withdraw due to joining the military and beginning US Army basic training.
 
-**In Associates | JCCC**
+**Associates (Incomplete due to Military) | JCCC**

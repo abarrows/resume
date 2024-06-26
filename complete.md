@@ -44,6 +44,7 @@ Webby Award-Winning Engineering Manager with 17 years and 26k contributions of h
 #### Andrews McMeel Universal | Kansas City, MO
 
 - Led our front-end engineering team through development on [https://www.thefarside.com](https://www.thefarside.com), which **won a Webby Award in 2020**; built in Ruby on Rails, Redux, Webpack with microservices and PostgreSQL.
+
 - In 5 months, **boosted deployment speeds by 22%** and vastly improved code quality in flagship products by orchestrating a 12 point checklist on the CI/CD pipeline while coaching the DevOps team.
 - **Reduced enterprise hosting cost by 60%** during a 5-year cloud migration plan to Azure. Transitioned 40 digital products and 80 services from Ruby on Rails, Python, GO to a modern architecture by migrating UIs to React.js, Next.js and RESTful APIs while supporting DevOps team.
 - In 3 months, reduced infrastructure attack surface to a minimal rating during an independent cybersecurity audit by a leading consulting firm. Fostered transparency and delegated security tasks while serving as a key liaison.

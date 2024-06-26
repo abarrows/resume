@@ -28,8 +28,6 @@ url: https://github.com/abarrows/resume
 defaults:
   - scope:
       path: 'formats'
-    values:
-      layout: 'default'
 
 paginate: 5
 

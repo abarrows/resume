@@ -157,7 +157,9 @@ table {
 tbody {
   display: flex;
 }
-td,
+td {
+  flex: 1 1 auto;
+}
 th {
   display: block;
   padding: 0.25rem 0.5rem;

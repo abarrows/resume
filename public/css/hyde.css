@@ -149,21 +149,50 @@ a.sidebar-nav-item:focus {
 /* Tables */
 table {
   margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+
+/* Contact Section Table */
+#andy-barrows {
+  color: #202020;
+  font-weight: thin;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+#andy-barrows ~ table {
+  border: 1px solid transparent;
+  margin-bottom: 0rem;
+}
+#andy-barrows ~ table tr {
   display: flex;
   flex-wrap: wrap;
   border: 1px solid transparent;
-  border-collapse: collapse;
 }
-tbody {
-  display: flex;
+#andy-barrows ~ table tr > td {
+  flex: 0 1 auto;
+  padding: 0rem 0.5rem;
+  border: 2px solid transparent;
+  border-right: 2px solid #cdcdcd;
+  background: transparent;
+  font-weight: bold;
 }
-td {
-  flex: 1 1 auto;
+
+#andy-barrows ~ table {
+  margin-left: -0.8rem;
 }
-th {
-  display: block;
-  padding: 0.25rem 0.5rem;
-  border: 1px solid #e5e5e5;
+#andy-barrows ~ table tr > td:last-child {
+  border-right: 0px solid transparent;
 }
 
 /*

@@ -30,7 +30,7 @@
  */
 
 html {
-  font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -149,18 +149,19 @@ a.sidebar-nav-item:focus {
 /* Tables */
 table {
   margin-bottom: 1rem;
-  width: 100%;
-  border: 1px solid #e5e5e5;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid transparent;
   border-collapse: collapse;
+}
+tbody {
+  display: flex;
 }
 td,
 th {
+  display: block;
   padding: 0.25rem 0.5rem;
   border: 1px solid #e5e5e5;
-}
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
 }
 
 /*

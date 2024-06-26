@@ -1,6 +1,8 @@
+---
 remote_theme: 'poole/hyde'
 title: Software Engineering Manager
 base_url: '/resume/'
+plugins: [jekyll-paginate]
 
 author:
   name: 'Andrew Barrows'
@@ -26,6 +28,8 @@ url: https://github.com/abarrows/resume
 defaults:
   - scope:
       path: 'formats'
+    values:
+      layout: 'default'
 
 paginate: 5
 
